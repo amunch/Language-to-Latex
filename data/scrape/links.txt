@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/01-Curves-Coordinates-Differentials/Curves-Coordinates-Differentials.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/02-Vectors/Vectors.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/04-Derivatives/Derivatives-Content.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/05-Motion/Motion-Content.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/06-LineIntegrals/LineIntegrals-Content.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/07-GradientFields/GradientFields-Content.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/08-Optimization/Optimization-Content.tex
+https://raw.githubusercontent.com/jasongrout/multivariable-calculus/master/09-DoubleIntegrals/DoubleIntegrals-Content.tex
