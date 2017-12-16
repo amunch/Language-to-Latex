@@ -1,0 +1,196 @@
+s
+a
+f(x,y) = 9-x ^ 2-y ^ 2
+\frac { dy } { dx }
+\vec u
+(x,y,z)
+(x,y,z)
+(x,y)
+\langle -2,3 \rangle
+C
+,ylabel = y
+y
+A
+\vec x = \vec c
+c _ 1 = 2, c _ 2 = 1, c _ 3 = 4
+f _ { zy } = f _ { yz }
+\int _ C Mdx+Ndy = \int _ 0 ^ { 2 \pi } a \cos t (-a \sin t) + a \sin t (a \cos t) dt = \int _ 0 ^ { 2 \pi } 0 dt = 0
+t
+f = x ^ 2y+x ^ 2 / 2-3yz+z ^ 3 / 3
+\vec r _ u = \langle 1,0,1 \rangle
+\vec v
+m
+C = c _ 1+c _ 2+c _ 3 = 7
+t
+\langle \bar x, \bar y, \bar z \rangle = \frac { 1 } { m } \int _ C \langle x,y,z \rangle dm = \frac { 1 } { m } \int _ C \langle x,y,z \rangle dm
+\bar x
+f(x,y,z)
+x = c
+b
+f = x ^ 2+4y ^ 2
+y = x
+(1,0,0)
+x
+P
+\int _ C \vec F \cdot \vec n ds
+\frac { 4xz } { 2y } = \frac { 4xy } { 1 }
+dx
+z
+C _ { ij }
+u
+t
+\frac { dt } { ds } = \frac { 1 } { ds / dt }
+x
+\vec N
+E(x,y)
+(0,3)
+\Delta A
+z
+m
+\vec F(x,y) = \langle x,y \rangle
+(x,y)
+a _ N = \sqrt { | \vec a| ^ 2-a _ T ^ 2 }
+\vec r(t) = \frac { 1 } { 2 } \vec a t ^ 2 + \vec v _ 0 t + \vec r _ 0
+\theta = 0
+x = y
+z
+\vec F
+v _ 0
+i
+\int _ C \langle x,y \rangle \cdot \frac { \langle x,y \rangle } { | \langle x,y \rangle | } ds = \int _ C \frac { | \langle x,y \rangle | ^ 2 } { | \langle x,y \rangle | } ds = \int _ C \sqrt { x ^ 2+y ^ 2 } ds = a \int _ C ds = a2 \pi a
+D
+y = mx+b
+y
+\int _ C \vec F \cdot d \vec r
+P _ 1
+\sqrt { (x _ 2-x _ 1) ^ 2+(y _ 2-y _ 1) ^ 2+(z _ 2-z _ 1) ^ 2 }
+R
+\delta (x,y,z)
+y
+\displaystyle \oint _ C \vec F \cdot d \vec r = 0
+x
+f(x,y) = 9+x-y ^ 2
+C
+dm = \delta ds
+(-2,1)
+x,y,z
+\vec n = \langle -f _ x,-f _ y,1 \rangle
+u
+f
+dx
+r \theta (t _ 2)-r \theta (t _ 1)
+\nabla L = \vec 0
+x = \bar x
+x = 1,y = 2
+R
+\frac { \partial (x,y) } { \partial (u,v) }
+\vec u \cdot \vec v = | \vec u|| \vec v| \cos \theta
+\Delta s
+(x,y)
+C
+f
+\Delta x
+xy
+[a,b]
+\vec N
+m
+dA = dxdy = rdrd \theta
+radius _ i = y _ i
+(1,3 \pi )
+M _ { xz }
+C
+-ydx+xdy-yxdz
+\iint _ R 1dA
+xy
+t
+\vec r(u,v) = \langle x,y,z \rangle
+Q(2,0,-1)
+x,y
+\frac { dy } { dx } = - \frac { f _ x } { f _ y } = - \frac { y ^ 2+1-y } { 2xy-x }
+(x,y) = (3 \frac { \sqrt { 2 } } { 2 } ,3 \frac { \sqrt { 2 } } { 2 } )
+y
+x
+u
+\vec f( \vec c)
+\pi
+y
+y
+1 / 2
+1 = x ^ 2+y ^ 2-z ^ 2
+\vec F (x,y)
+\vec F
+z = f(x,y)
+\langle dx,dy \rangle
+\vec c
+\delta
+\vec a \cdot \vec T = \frac { d } { dt } | \vec v|
+s
+C
+\bar x = M _ { yz } / m, \bar y = M _ { xz } / m, \bar z = M _ { xy } / m
+f
+R
+\vec F
+\dot x = dx / dt = - \sin t
+s
+\frac { dy } { dx } \approx \frac { \Delta y } { \Delta x } = \frac { f(x+h)-f(x) } { (x+h)-x }
+x = c
+dA
+\langle 2,0,-1 \rangle
+\vec F
+w _ 1 = \frac { 2 } { 7 } ,w _ 2 = \frac { 1 } { 7 } ,w _ 3 = \frac { 4 } { 7 }
+A
+\vec F
+f( \vec g(r,s,t)) = f(3r+4s,t ^ 2-r) = (3r+4s) ^ 2-(t ^ 2-r)
+\vec F(x,y) = \langle M,N \rangle
+dx = \frac { du } { 2x }
+C
+\Delta \theta \to 0
+\int _ 0 ^ a \int _ 0 ^ { 2 \pi } rd \theta dr
+s = \int _ C ds
+f(x,y,z) = 3xy+z ^ 2
+x
+C
+x
+x ^ 2-z ^ 2 = 1
+z = f(x,y)
+a \leq x \leq b
+f(x,y) = 6
+\langle -y,x,-yx \rangle
+C
+0 \leq t \leq 1
+z
+C
+\iint _ R fdA = \int _ a ^ b \left ( \int _ c ^ d f dy \right )dx = \int _ c ^ d \left ( \int _ a ^ b f dx \right )dy
+x
+\vec 0
+\vec F(x,y) = \langle M,N \rangle
+0 \leq t \leq 1 / 2
+(a,b)
+4z = 8y ^ 2
+f
+x = t,y = f(t)
+dy = a \cos t
+C _ a
+M = f _ x
+\delta
+\vec u
+\vec v
+x = r \cos \theta , y = r \sin \theta
+(a,b) = (0,0)
+B(z) = \int z ^ 2 dz = z ^ 3 / 3+C
+\vec c
+2x+3y+z = 6
+\vec F
+z = 9-x ^ 2-y ^ 2
+R
+f
+x
+f(x,y)
+\delta (x,y,z)
+\frac { \partial } { \partial x } f _ x = f _ { xx } = 2, \frac { \partial } { \partial y } f _ x = f _ { xy } = 8y, \frac { \partial } { \partial z } f _ x = f _ { xz } = 0, \frac { \partial } { \partial x } f _ y = f _ { yx } = 8y, \frac { \partial } { \partial y } f _ y = f _ { yy } = 8x, \frac { \partial } { \partial z } f _ y = f _ { yz } = -3z ^ 2, \frac { \partial } { \partial x } f _ z = f _ { zx } = 0, \frac { \partial } { \partial y } f _ z = f _ { zy } = -3z ^ 2, \frac { \partial } { \partial z } f _ z = f _ { zz } = -6z.
+xy
+\frac { 4yz } { 2x } = \frac { 4xz } { 2y }
+\langle 3,4 \rangle
+a
+f
+\pi r ^ 2

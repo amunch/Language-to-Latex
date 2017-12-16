@@ -7,7 +7,7 @@ NUM_GRAMS = 2
 NUM_TOP_TRANSLATIONS = 100
 
 def make_knes():
-    eq_in = '../data/tokenized/train.eq'
+    eq_in = '../data/final_data/train.eq'
 
     data = []
 
@@ -49,7 +49,7 @@ def make_TM():
         for prob in translations[t]:
             tm.add_transition(fst.Transition(0, (t, prob[0]), 0), wt=float(prob[1]))
 
-    test = '../data/tokenized/train.tr'
+    test = '../data/final_data/test.tr'
     test_set = set()
     for test_line in open(test):
         for char in test_line.strip().split():
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     M_LM = make_knes()
     M_TM = make_TM()
 
-    test_file = '../data/tokenized/train.tr'
+    test_file = '../data/final_data/test.tr'
 
     to_write = []
 

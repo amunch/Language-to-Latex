@@ -1,0 +1,196 @@
+0 equals -gt_m+v_{y_0}
+N equals f_y equals partial over partial y [x^2y+x^2 over 2+A(y,z)] equals x^2+A_y(y,z)
+M_{xy} equals the integral over C of z dm
+0 less than or equal to t less than or equal to 2 pi
+vector u
+theta
+xy
+vector r(t(s)) equals < cos ( s over square root 2 ), sin ( s over square root 2 ), s over square root 2 >
+y
+vector u times vector u equals | vector u| | vector u| cos 0 equals | vector u|^2
+vector y equals vector f( vector x)
+dy
+x
+y
+integral P dz equals -3yz +z^3 over 3
+(-1,0,0)
+3
+R
+Delta s_{i} to 0
+u equals x+2y
+v
+A_y(y,z) equals -3z
+M_y equals N_x
+AV
+y
+vector v_1
+vector l (t) equals < 3t+2,-5t-8,8t+1 >
+u(1) equals 1
+A_a
+g equals 0
+vector x equals vector c
+f(x,y) equals 9-x^2-y^2
+xdx+zdy+ydz
+f(3 over 2,3 over 2) equals 81 over 2
+vector F
+C
+vector x
+f(x,y,z)
+(x,y,z)
+dx over du
+L(x,y) equals f(a,b) + f_x(a,b)(x-a)+f_y(a,b)(y-b)
+nabla f(1,-2,2) equals < 2,-4,-4 >
+vector g
+< 2,0,-1 >
+r_2(t) equals < t,0 >
+C
+vector F(x,y) equals < x,y >
+vector T
+y equals 2x
+(x_0,y_0)
+s(t)
+< 1,-2,3 >
+d vector B over ds equals 1 over 2 < cos t, sin t, 0 >
+< 0,1,f_y >
+delta >0
+W equals | vector F|| vector d|
+N_z equals P_y
+f_x
+1(x-1)-2(y-0)+1(z-0) equals 0
+(0,0), (1,0), (0,1)
+x equals 3
+vector N
+Q
+r equals 2 cos theta +1
+vector v equals < v_1,v_2,v_3 >
+R
+t
+vector r_1(1) equals < 1,0 >
+m
+(1,-2,2)
+C
+f_x(1,2) equals 1
+(-1,- pi )
+x(t) equals v_{x_0} t +x_0 equals v_0 cos alpha +x_0
+f(x,y,z) equals fraction 1 2 x^2y+xyz+x-3yz
+y
+x
+d vector y equals D vector f d vector x
+[a,b]
+f(x,y) equals x^3-3x+y^2-4y
+vector F(x,y) equals < -y,x >
+TNB
+z equals 0
+f(x,y) equals x^2+4x+y^2-2y
+-3yz
+vector T
+x equals 2y
+vector r(t) equals < x(t), y(t) >
+Delta A_{ij} equals Delta x_i Delta y_j
+r equals 1- cos theta
+v_{x_0} equals v_0 cos alpha
+vector v
+x
+f_{i}
+y equals 0
+vector N
+y
+vector F equals < -y,0 >
+P
+0 less than or equal to t less than or equal to 2 pi
+i
+y
+f_y(1,2) equals -4
+AV
+f equals x^3-3x^2-y^2+2
+t equals 1 over 5 (x-y^2+3z)
+n
+B equals vector r(b)
+dm
+vector r(t) equals < alpha cos t, alpha sin t >
+vector d
+vector v
+(x,y) equals (1,2)
+partial (x,y) over partial (u,v) equals 1 over ( ( partial (u,v) over partial (x,y) ) )
+the double integral over R of fdA
+vector x equals < u,v >
+f equals x^2y+x^2 over 2-3yz+z^3 over 3+C
+the square root of (3-1)^2+(1-0)^2+(0-2)^2 equals 3
+D vector r
+y'
+f(x,y) equals x^2-y^2 over x^2+y^2
+vector u
+y
+- 1 over 2 vector u
+x equals r cos theta equals f( theta ) cos theta
+yz
+dy
+-f_x(a,b) (x-a)-f_y(a,b)(y-b)+z-f(a,b) equals 0
+the square root of ( the square root of x^2+y^2 )^2+z^2 equals the square root of x^2+y^2+z^2
+d vector x
+ds
+vector L
+w equals x^2+y+z^2
+vector r(t) equals < cos (t), sin (t),t >
+x equals c
+vector n
+,ylabel equals y
+x^2+y equals z^3
+Delta vector r equals vector T Delta s
+z equals f(x,y)
+Delta m
+< 2,1 >
+C
+0 less than or equal to theta less than or equal to 2 pi
+theta equals pi
+z
+sin t
+Delta y_j
+cos theta equals 1- cos theta
+a_N
+a_N equals vector a times vector N
+t_1
+Dw(y,z,t)
+( ( partial w over partial y ) )_{x,z}
+V equals the integral from a to b of ( ( the integral from c to d of f dy ) )dx
+Delta s
+vector v equals d vector r over dt equals d vector r over ds ds over dt equals vector T ds over dt
+-3(x-1)+1(y-0)-6(z-2) equals 0
+z
+t
+0 less than or equal to theta less than or equal to pi over 4
+u equals 2x
+t
+x equals 0
+z equals 2y^2
+vector v(t) equals integral vector a(t) dt
+2 pi a
+(r, theta ) equals (2, pi over 2)
+vector c
+ds
+f_y equals N
+vector r(t) equals < x(t),y(t) >
+y equals 1,3
+Q(0,-1,4)
+d vector y equals D vector f( vector x)d vector x
+a
+C_a
+x
+dz
+vector F
+R
+f
+(v_1,v_2,v_3)
+n equals < -f_x,-f_y,1 >
+d vector T over dt equals 1 over the square root of 2 < - cos t, - sin t, 0 >
+w
+w equals x^2+y+( square root [3]{x^2+y} )^2
+R
+Df
+f
+C
+y
+fraction x2+ fraction y3+z equals 1
+ab pi
+f( vector r(t))
+C

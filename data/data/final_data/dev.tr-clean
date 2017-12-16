@@ -1,0 +1,196 @@
+s
+a
+f(x,y) equals 9-x^2-y^2
+dy over dx
+vector u
+(x,y,z)
+(x,y,z)
+(x,y)
+< -2,3 >
+C
+,ylabel equals y
+y
+A
+vector x equals vector c
+c_1 equals 2, c_2 equals 1, c_3 equals 4
+f_{zy} equals f_{yz}
+the integral over C of Mdx+Ndy equals the integral from 0 to 2 pi of a cos t (-a sin t) + a sin t (a cos t) dt equals the integral from 0 to 2 pi of 0 dt equals 0
+t
+f equals x^2y+x^2 over 2-3yz+z^3 over 3
+vector r_u equals < 1,0,1 >
+vector v
+m
+C equals c_1+c_2+c_3 equals 7
+t
+< bar x, bar y, bar z > equals 1 over m the integral over C of < x,y,z > dm equals 1 over m the integral over C of < x,y,z > dm
+bar x
+f(x,y,z)
+x equals c
+b
+f equals x^2+4y^2
+y equals x
+(1,0,0)
+x
+P
+the integral over C of vector F times vector n ds
+4xz over 2y equals 4xy over 1
+dx
+z
+C_{ij}
+u
+t
+fraction {dt}{ds} equals 1 over ds over dt
+x
+vector N
+E(x,y)
+(0,3)
+Delta A
+z
+m
+vector F(x,y) equals < x,y >
+(x,y)
+a_N equals the square root of | vector a|^2-a_T^2
+vector r(t) equals 1 over 2 vector a t^2 + vector v_0 t + vector r_0
+theta equals 0
+x equals y
+z
+vector F
+v_0
+i
+the integral over C of < x,y > times < x,y > over | < x,y > | ds equals the integral over C of | < x,y > |^2 over | < x,y > | ds equals the integral over C of the square root of x^2+y^2 ds equals a the integral over C of ds equals a2 pi a
+D
+y equals mx+b
+y
+the integral over C of vector F times d vector r
+P_1
+the square root of (x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2
+R
+delta (x,y,z)
+y
+the line integral over C of vector F times d vector r equals 0
+x
+f(x,y) equals 9+x-y^2
+C
+dm equals delta ds
+(-2,1)
+x,y,z
+vector n equals < -f_x,-f_y,1 >
+u
+f
+dx
+r theta (t_2)-r theta (t_1)
+nabla L equals vector 0
+x equals bar x
+x equals 1,y equals 2
+R
+partial (x,y) over partial (u,v)
+vector u times vector v equals | vector u|| vector v| cos theta
+Delta s
+(x,y)
+C
+f
+Delta x
+xy
+[a,b]
+vector N
+m
+dA equals dxdy equals rdrd theta
+radius_i equals y_i
+(1,3 pi )
+M_{xz}
+C
+-ydx+xdy-yxdz
+the double integral over R of 1dA
+xy
+t
+vector r(u,v) equals < x,y,z >
+Q(2,0,-1)
+x,y
+dy over dx equals - f_x over f_y equals - y^2+1-y over 2xy-x
+(x,y) equals (3 the square root of 2 over 2 ,3 the square root of 2 over 2 )
+y
+x
+u
+vector f( vector c)
+pi
+y
+y
+1 over 2
+1 equals x^2+y^2-z^2
+vector F (x,y)
+vector F
+z equals f(x,y)
+< dx,dy >
+vector c
+delta
+vector a times vector T equals d over dt | vector v|
+s
+C
+bar x equals M_{yz} over m, bar y equals M_{xz} over m, bar z equals M_{xy} over m
+f
+R
+vector F
+dot x equals dx over dt equals - sin t
+s
+dy over dx is about Delta y over Delta x equals f(x+h)-f(x) over (x+h)-x
+x equals c
+dA
+< 2,0,-1 >
+vector F
+w_1 equals 2 over 7 ,w_2 equals 1 over 7 ,w_3 equals 4 over 7
+A
+vector F
+f( vector g(r,s,t)) equals f(3r+4s,t^2-r) equals (3r+4s)^2-(t^2-r)
+vector F(x,y) equals < M,N >
+dx equals du over 2x
+C
+Delta theta to 0
+the integral from 0 to a of the integral from 0 to 2 pi of rd theta dr
+s equals the integral over C of ds
+f(x,y,z) equals 3xy+z^2
+x
+C
+x
+x^2-z^2 equals 1
+z equals f(x,y)
+a less than or equal to x less than or equal to b
+f(x,y) equals 6
+< -y,x,-yx >
+C
+0 less than or equal to t less than or equal to 1
+z
+C
+the double integral over R of fdA equals the integral from a to b of ( ( the integral from c to d of f dy ) )dx equals the integral from c to d of ( ( the integral from a to b of f dx ) )dy
+x
+vector 0
+vector F(x,y) equals < M,N >
+0 less than or equal to t less than or equal to 1 over 2
+(a,b)
+4z equals 8y^2
+f
+x equals t,y equals f(t)
+dy equals a cos t
+C_a
+M equals f_x
+delta
+vector u
+vector v
+x equals r cos theta , y equals r sin theta
+(a,b) equals (0,0)
+B(z) equals integral z^2 dz equals z^3 over 3+C
+vector c
+2x+3y+z equals 6
+vector F
+z equals 9-x^2-y^2
+R
+f
+x
+f(x,y)
+delta (x,y,z)
+partial over partial x f_x equals f_{xx} equals 2, partial over partial y f_x equals f_{xy} equals 8y, partial over partial z f_x equals f_{xz} equals 0, partial over partial x f_y equals f_{yx} equals 8y, partial over partial y f_y equals f_{yy} equals 8x, partial over partial z f_y equals f_{yz} equals -3z^2, partial over partial x f_z equals f_{zx} equals 0, partial over partial y f_z equals f_{zy} equals -3z^2, partial over partial z f_z equals f_{zz} equals -6z.
+xy
+4yz over 2x equals 4xz over 2y
+< 3,4 >
+a
+f
+pi r^2

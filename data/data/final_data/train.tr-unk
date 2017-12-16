@@ -1,0 +1,1566 @@
+T
+4) 1
+x,y,z
+dA 1 2 r^2d
+| 1,2,4 | 1+4+16 21
+m C dm
+z
+u
+-3 x 3
+f_z P
+A_a
+dt ds 1 (ds dt) 1 | r'(t)|
+u
+y_1 1, y_2 3, y_3 4
+C_a
+-1(x-1)+4(y-2)+1(z-6) 0
+f(x,y,z)
+(1,-2,2)
+df
+v
+0 x 1
+g 0
+x 1
+f
+1 t 2
+f_x 6x+4y-y (xy)+0
+y x,y,z
+
+
+z 9-x^2-y^2
+y
+y
+M_z P_x
+V(x,y) (2x)(2y)(9-x^2-y^2)
+x
+f( r(t))
+a
+f
+
+y
+v 1,0,f_x
+w x )_{y,z}
+f( g( x))
+a b f(x)dx
+C F d r f(0,0)-f(1,0) - 1 2
+dy,-dx dy^2+dx^2
+s
+F
+a_T
+w x )_{z}
+T
+f_{xz} f_{zx}
+-3 3 0 9-x^2 dydx
+B
+F
+f f_x,f_y,f_z
+x t, y t
+f
+a_T 0
+M_{x = c} C (x-c)dm
+y
+12 r^2
+R 1 dA
+a_N
+T(x,y) x^2-xy-y^2
+v_{y_0} v_0
+(x,y,z)
+x r , y r
+f(x,y) y^2x+x-xy
+f( r(x)) 1
+dy dx
+2
+C
+u u_1,u_2,u_3
+x
+a 0 1 A_a C_a F n ds M_x+N_y
+x
+(0,0)
+f_y N
+r^2 2
+x c f( x) f( c)
+y f(x)
+0 r 3
+(x,y,z)
+m
+s_i
+R
+
+F(x,y) M,N
+r (u,v) u,v,9-u^2-v^2
+r
+x 2 2, y 2 2
+r(t) x(t),y(t),z(t)
+
+x
+(2,3)
+(x+1)^2+(y-2)^2+z^2 5
+a
+0 t 2
+r(t) x,y,z
+v
+x^2+(y-1)^2 1
+t_2
+x
+u^2+v^2 1
+1
+r_0
+g 0
+x
+D
+f(x,y) x x^2-y
+x
+x
+R
+x
+r(u,v) u,v,9+u-v^2
+2
+n
+r(t)
+f(1,1) -2,-2
+2x-y 0
+x_i
+|f_{xy} |
+y
+0 x 3
+n
+M_x+N_y
+N_z 1 P_y
+r^2 2r
+f 2xy+x,x^2-3z,-3y+z^2
+w x )_{y,z} 2x-0+0- ((x-y^2+3z) 5) 1 5
+F(x,y) -y,x
+i
+a
+A c d f(x_i,y)dy
+f(x,y) 3x^2+4xy+ (xy)+y^3
+f(x,y) 0
+t
+y
+s C ds a b 1+ dy dx )^2 dx
+A 0 3 0 x dy dx
+f( g( x))
+3
+a t b
+r(t)
+x,y
+C
+- 9-y^2 x 9-x^2
+f
+r(x) x,y(x)
+R
+R I m
+2 r^2
+TNB
+f
+p
+r
+F x+y,x+y
+M_y -1
+dx d )^2+ dy d )^2 r^2+ dr d )^2
+x
+F
+D
+F f
+R
+g
+v
+0 y 3
+M_z 0 P_x
+y-2 1 2 (x-1)
+(x,y)
+x^2+y^2-2y+1 1
+f
+t_m v_{y_0} g
+u
+2<
+R I m
+1 2
+T
+x
+B
+T
+R
+r(t) v(t)dt
+F n
+v 3,-5,8
+v
+u
+y
+g
+x 2
+z
+Mdx+Ndy
+f x^2y+x^2 2-3yz+B(z)
+r
+x,y
+x
+t
+F y^2,x
+x^2+y^2
+f(x,y) 1 2 x^2+xy+ 12 y^2
+f_{yz} f_{zy}
+u
+F
+u
+(x,y)
+B
+(2,-8,1)
+[a,b]
+F
+g(x,y,z) z-f(x,y)
+L(x,y)-f(a,b) df
+u
+
+x 3,1
+dy f' dx
+y
+f
+F
+y
+x-y^2+3z 5t
+x_i x_i-x_{i-1}
+M_y 0 N_x
+M_z y P_x
+(a,b)
+f 1
+0, 2, ,3 2
+z f(x,y)
+f(x,y,z)
+y
+(2,3)
+3
+1,3,-2
+y
+f
+dy dx - 4) -1
+(x-x_0)^2+(y-y_0)^2+(z-z_0)^2 r^2
+v_{x_0} 90g v_{y_0} 90g 2 68 g
+f^{(n)} (a)
+y^2 x^2
+d y D f d x
+x^2+y^2+z^2+2x-4y 0
+P_1 (1,0,2)
+f(x,y,z) 4xyz
+y f(x)
+F
+
+P(a,b,c)
+a b f(x)dx
+v v_1,v_2,v_3
+|r(t)|^2 r(t) r(t) c^2
+a t b
+y^2 9 4
+f x^2+y^2-z^2
+dt
+(2,-8,1)
+W F r
+ds
+C Mdx+Ndy
+v_0 v_{x_0}^2+ v_{x_0}^2
+1
+f(x,y) x^2+y^2+1
+
+(1,1)
+t_m, v_{x_0} , v_{y_0}
+x^2+y^2
+(x,y,0)
+a_T
+9 2
+f
+a
+1 dx dx
+a 0 1 a^2 2 a^2 2
+(a,b)
+f(b)-f(a) a b f' dx
+v
+dm ds
+f(x_i,y_j)
+(1,0)
+x -2,y 1
+N
+w x^2+(z^3-x^2)+z^2 z^3-z^2
+(2,3)
+g
+x y^2
+(x,y)
+r
+T
+x g(y), c y d
+F n 0
+x c
+f(x,y)
+a(t) 0,-g
+>0
+z f(x,y)
+(0,0,0)
+x 4
+r
+f
+f
+f
+t (x-y^2+3z) 5
+u u_1,u_2
+L f+dz
+(a,b)
+xyz
+L
+t
+d^2y dx^2
+0 t 1
+y - f( c) D f( c) x- c)
+1 R 1 R_1 + 1 R_2
+s
+2 r^2
+x
+s x^2+ y^2
+f
+z
+f
+x c
+f
+KE 1 2 mv^2
+f(x,y) 9-x^2-y^2
+r (t)
+r(t)
+F
+u - v
+f_y x^2-3z
+(x,y)
+M_{yz} C x dm x dm
+C F d r
+r
+z f(x,y)
+g 0
+dz
+a
+2x-6y 0,-6x+2y 0
+Df(x,y)
+x r , y r , x^2+y^2 r^2
+C
+y_i
+0 y 9-x^2
+f
+m
+x f(t),y g(t)
+x
+y
+x
+12x^2y
+a(t)
+F(x,y) -y,x
+(x,y,z) x^2+y^2z
+C
+(0,0)
+m
+xy 3
+| 2,7,4 | 4+49+16 69
+x,z,y
+v
+f 1
+uv
+x_i
+f F
+0 x 1, 0 y x
+F
+g
+c d f(x_i,y)dy
+v_1,v_2,v_3
+x 1,y 2
+C
+(1,1)
+C
+(a,b,f(a,b))
+x^2+y^2 1
+x m x dm M_{yz} M_{x = 0}
+(x,y)
+r 1-
+M_y N_x
+x^2-z^2 1
+90 v_{x_0} v_{y_0} g
+1 A_a C_a F n ds
+P_x 0
+f x^2+yz^3
+u
+t
+M_y x+z N_x
+D
+R^2 dm r^2 dm
+x(t)
+f_y 0+4x-x (xy)+3y^2
+t v_{y_0} g v_0 g
+c
+2x+3y
+f
+0
+a 0 1 a^2 2 a^2 2
+Dw(x,y,z)
+0 y x
+x
+v_2
+A
+v
+F T ds
+(x,y) (0,0)
+x^2 2+xz-3z dy 12x^2y+xyz-3yz
+u
+a t b
+(-1,2,0)
+AV
+F yz,xz,yz
+f
+f v
+N y a t
+u
+D^n f( a)
+(x,y)
+n
+f x^2+y^2+z^2
+x,y,z
+f'(x)
+x x dm) m
+l
+g 0
+dx,dy u ds
+u+2v
+r(t_m) 90,68 v_{x_0} t_m, - 1 2 gt_m^2+v_{y_0} t
+C
+f
+RfdA
+C_a
+h
+radius_i x_i
+z
+x c
+x a t
+R
+x^2-y^2 1
+u
+y
+y
+R
+C
+x t+1, y t^2
+y_i x_i x_i dy dx (c_i) x_i
+|E| 1 2 M(|dx|+|dy|)^2
+F
+1 A_a C_a F d r
+(x,y,0)
+(x,y)
+1
+T(t) r'(t) | r'(t)| - t, t - t, t
+f
+r
+(x,y)
+y
+(x,y)
+ds dx^2+dy^2
+u_1,u_2,0
+2u-v 5y
+C
+t
+u
+x
+F M,N,P
+v
+x_{i-1}
+1
+C
+z
+dz z-f(a,b), dx x-a,dy y-b
+
+w x )_{y,z}
+x x,y
+L
+a_T
+D F
+R_{uv} dudv
+(1,-2,2)
+x
+x
+2x+ 2 3 (x^2+y)^{-1 / 3} 2x
+b
+y 0
+dt
+D^2f
+a t b
+m_{i} (x_i,y_i,z_i) s_{i}
+2u
+y 2+ 1 2 (t-1)
+x a t
+yz
+a
+C F n ds C Mdy-Ndx
+0
+u
+2z(2) 0
+f s
+Df(x,y)
+m
+x-4y 8
+dx,ds,dA
+x c
+z
+z
+C
+u(0) 0
+r(t)
+(0,1)
+f
+r(t) (t), (t),t
+v
+C F d r 0 t+ t, t+ t - t, t dt + -1 0 t+0,t+0 1,0 dt 0- 12
+f(x,y) x^2-y
+m
+f'
+x
+W 0,-200 6,-3 600
+T
+a
+y
+x-c
+s_i
+df dt
+N
+x
+0 t 1
+x -1,y 2
+f(b)-f(a)
+(x,y)
+z f(x,y)
+n
+M_z P_x
+R
+f
+C
+y f(x)
+F
+C
+w x )_{y,z}
+(x,y) x^2+y^2+1
+f
+0 t 1
+F -y,x
+y(t) - 1 2 gt^2+v_{y_0} t
+F
+3
+f(r(t)) f(t+1,t^2) 9-(t+1)^2-(t^2)^2
+(a,b)
+f x^2+y^2+z^2
+x
+x(u) u 2
+x_i 0
+F
+|-5|
+P_2 (3,1,0)
+R_1
+A(h,w) hw
+z 0
+0 t
+N dy x^2y+-3yz
+D f( x) h
+F(x,y) -y,x
+g(x,y,z) z-(9-x^2-y^2) 0
+I r^2 dm
+x y
+f
+dA
+dV fdA
+1,0,f_x
+Ndy
+r_v 0,1,-2v
+C
+v(t_m) v_{x_0} ,0 v_{x_0} ,-gt_m+v_{y_0}
+x
+(1,2,6)
+y a t
+d
+4-1 3
+x_i
+f_x M
+Mdx xyz
+ds dt
+F
+r
+z f(x_i,y)
+u
+F
+T
+F
+x 0,y 0
+x 2u+v,y u-v,z uv
+B
+y x
+L
+0 t 2
+u + v
+I r^2 dm
+P(1,0,0)
+c
+dx
+- d B ds N
+y 2+t
+R^2
+x(t) v_{x_0} t
+
+(3)^2+(5)^2+(-2)^2 9+25+4 38
+x y^2
+[0,3]
+xz
+z f(x+dx,y+dy)-f(x,y)
+x -1,y 2
+F (x,y,z)
+f_x
+y
+f(x,y,z) x^2+4xy^2-yz^3
+T(x,y) u x+2y, v 2x-y
+f( p)
+r
+y
+(x,y,z)
+R^2 m I
+P f_z -3y+B_z(z)
+g( x)
+x c
+r(u,v) 2u+v,u-v,uv
+F(x,y) -y,x
+F
+d B ds
+0 t 1
+5
+P
+y^2+z^2
+Mdx
+dz f_xdx+f_ydy
+3,5,-2)
+x
+s 0 2 2 dt 2 2
+y
+y f(x)
+x
+v
+y x^2
+f
+|f_{xx} |,|f_{yy} |
+R_2
+F
+F M,N,P
+a b dx dt )^2+ dy dt )^2 dt
+s_{i}
+x 2
+n
+u
+Pdz
+ds
+N y a t
+y_i
+r( f(
+F
+r
+F M,N,P
+D f( x)
+d y
+xy
+v
+dy dy dx dx
+f
+u 1,0
+P
+n -f_x,-f_y,1
+| r(t)| c
+(x,y)
+R_y I_y m
+
+C
+A
+A r(a)
+s C ds C dx^2+dy^2
+r(t)
+y
+Df( r(t))
+y_i f(x_i)-f(x_{i-1}
+F
+F
+u v u_1v_1+u_2v_2+u_3v_3
+dm ds
+y mx+b
+[a,b]
+C_a
+y_i f(x_i)-f(x_{i-1} x_i x_i y_i x_i x_i dy dx x_i
+u
+F
+f
+f_x
+x au,y bv
+
+u
+R
+f
+t 0
+C
+y x,y 0,x 3
+f
+w
+0<|x-c|<
+F M,N,P
+d y
+a t b
+f(B)-f(A) f( r(b))-f( r(a))
+y
+r(t) 3 t,3 t
+r(t) t, t, t
+a
+z f(x,y)
+d B ds
+0 C x dm - x C dm
+t
+c
+uv
+s(t) 0 t 2 dt t 2
+M_z y
+f
+a
+f
+z f(x,y) 9+x-y^2
+2 1
+x c
+ds
+F M,N,P
+x
+c f(x,y)
+N_x-M_y
+x(t),y(t), a t b
+f
+d x
+(1,
+y
+f
+B
+-t, -3t-1,2t+4
+Mdx+Ndy+Pdz
+r(t) 1,0,1 t+ 1,2,6
+C
+p (a,b)
+xz
+y
+F(x,y) x,y
+C
+v
+dA f(x)dx
+1,3,-2 4,0,2 1(4)+3(0)-2(2)
+(x,y) (0,2)
+D
+L 0
+u
+L 0
+s
+x,y,z,
+dy dx
+y^2-4y-3 0
+x t
+F x,y
+z f(x,y)
+x-2y+z 1
+V_i c d f(x_i,y)dy x_i
+x+2y 1
+q(t) a+u_1t, b+u_2t
+3
+1 5 2,1
+f
+1
+x 3
+a_N
+dy,-dx
+R
+f
+d B ds d B dt ds dt
+P
+y
+M_{yz} C x dm, M_{xz} C y dm
+z f(x,y)
+xa+ yb+ zc 1
+s_{i}
+ds
+C
+a t b
+x, y, z m C x,y,z dm
+R^2 m I
+B 1 2 t,- t, 1
+y
+f(x,y) x^2y x^2+y^2
+1,-2,3
+C_a
+N_x-M_y 1-(-1) 2
+d y D f d x
+f( c)
+f
+dA
+(x,y) (r ,r (1 4, 3 4)
+y x^2
+w_i
+f( r(t))
+r
+f_{xy} f_{yx}
+F 0,-200 80,-40 + 0,-200 - 80,-40 80,-40 + -80,-160 .
+t(s)
+v
+(x,y) (r, r
+L
+(x,y)
+f
+dy dx y x t - t - t
+ds
+v 2x-y
+(2,3)
+(x,y) (a,b)
+f
+D^2f(a,b)
+F
+dx,dy .1 3,4 | 3,4 | .1 5 3,4 .06,.08
+y f( x)
+y
+F
+C F d r C -y dx RdA
+C_u
+R
+A R dA 0 3 0 x dy dx
+(r, (3, 4)
+f(x,y) x^2-6xy+y^2
+I r^2 dm
+z 2x+3y
+Df
+F(x,y,z) xy+yz+1,x^2 2+xz-3z,xy-3y
+d y D f d x
+R
+r(t) 3 (t),2 (t)
+24
+C
+[a,b]
+f( x) y
+
+3
+B
+u
+P
+AV 1 A 0 3 0 x x^2+y^2+1 dy dx
+F
+x a t, y b t
+9 2
+r_1(0) 1,0,2
+y z
+z
+d
+dx 1 2 du
+u
+R 20 3
+|x-3|
+y z^3-x^2
+z f(x,y)
+t_{k-1} t t_{k}
+a b fdx
+(a,b,f(a,b))
+dy a t
+z
+(x,y)
+R_z I_z m
+-1<t<2
+C
+2(x-1)-4(y+2)-4(z-2) 0
+9 2
+(x,y)
+t
+ds
+F
+C Mdy-Ndx 0 2 (-a t)(a t)-(a t)(-a t)dt 0 2 0 dt 0
+s_i
+-2,-2
+dy,-dx
+-y,x,-yx
+M dx x^2y+x^2 2
+f
+v
+ds dx^2+dy^2
+u
+t
+x 3
+w x )_{y}
+t s 2
+(x,y)
+x
+f
+M_z P_x
+x 1
+dx -a t
+| d r ds | 1
+i
+v
+r(t) x(t),y(t)
+f_x(x,y) 1
+T
+d B ds
+w
+B
+1 R 3 20 ,
+g -f_x,-f_y,1
+Q(x,y,z)
+W F d
+P_2
+g
+C_a
+Df D r
+R
+C
+f
+
+T
+x a
+f(x,y,z)
+R
+f
+V_{ij} f(x_i,y_j) A_{ij} f(x_i,y_j) x_i y_j
+C
+(0,0), (1,0), (0,1)
+R
+xy+yz+1 dx 12x^2y+xyz+x
+x^2+2x+1+y^2-4y+4+z^2 1+4
+dA fdx,fds, dxdy, rdrd , (x,y) (u,v) dudv
+(t)
+
+f x,z,y F
+N
+t,x,y
+f
+n
+C_x f(x)dx C_u f(x(u)) dx du du
+a
+[0,6]
+Ax+By+Cz D
+x,y,z
+0 2
+f
+P(1,2,3)
+f(x,y)
+f(x,y) 9+x-y^2
+2x-y 8
+y
+x+2y 4
+T 2x-y,-x-2y
+t
+g
+
+C
+dy dy
+0<| x- c|<
+<-2,3
+n
+f
+F(r, ,z) r ,r ,z
+-1 t 0
+D^2f
+f v 3(u-v) -3(2u+v) + 2u^2v
+x
+(x,y)
+f(x,y)
+v
+d
+dy dx
+0 r a
+t
+g 0
+y(t) y_0
+x 3 2,y 3 2
+P
+x,y,
+y_i
+x
+y-2 t
+C
+x^2+y^2 2y
+F(x,y) xy,x+y
+m
+g 0
+C_{ij}
+y x
+u
+(6,0)
+r
+C
+F x,y
+x^2y
+TNB
+t 0
+x_i
+I r^2 dm
+d
+x 3t
+f_y
+f
+R^2 dm r^2 dm
+5x
+y
+z
+c
+dt dt
+D f
+C_x
+T
+Mdx+Ndy+Pdz
+x_i 0
+g x^2-z^2-1 0
+f(x,y) x^2-y^2 x^2+y^2
+x c
+n A,B,C
+P
+f_z P
+D f( x)
+u - v
+z f(x,y)
+T
+dt
+A B
+x
+T
+x
+x u+2v 5
+y
+ds
+2,0,-1
+x 5t-3z+y^2
+f
+x t+1, y t^2
+m R dm 0 3 0 x (x^2+y^2+1)dy dx
+C
+- 1 2 t, t, 0 - t, - t, 0 1 2
+(-1,0)
+(x,y,z)
+r_2(t) 2+2t,3,2-t
+f_x 2x+4y^2, f_y 8xy-z^3, f_z -3yz^2
+h
+c_i
+(x,y,z)
+v_{y_0} 2 68 g
+v_0
+f
+y
+f 3x+y
+AV (b-a) a b f(x)dx
+b
+a x b
+f
+x
+2 a^2
+z 2y^2
+0 3 e^{2x} dx 0 6 e^u 1 2 du
+r,
+f(x,y,z)
+f
+d(dy dx) dt
+u
+F M,N,P
+C_a
+v
+R
+f
+C
+C Mdy-Ndx C F n ds R 2 dA 2A 2 9 4 9 2
+r(0) r_0 x_0,y_0
+x
+xyz
+AV
+radius_i
+f x y
+r 4
+N
+3
+R_1
+1,-2,3
+f
+M x a t
+x
+g
+A r(a)
+C
+(a,b)
+0 t 2
+dy dx
+f
+f
+t
+v(t) a t+ v_0
+dy
+f_{i} f( r(t_i))
+v
+y 3 2
+R^2 m I
+n
+A_i
+v d dt (r r d dt r (t)
+t c
+(x,y) xy
+x 1+2t
+m
+dx -a t
+f(x)
+N
+F x,z,y
+f_x+f_y dy dx 0
+w z )_{y,t} 2(x)(-3)+(1)(1) -6(5t-3z+y^2)+1
+a
+y x 3
+x
+x 1
+y
+Df D r 0
+g
+x,y,z
+p (a,b)
+R
+(a,b)
+f
+P
+ds
+dx dt
+L
+F
+Ndy xyz
+dz
+a 0 1 A_a C_a F n ds
+df dt
+y
+x t, y t
+N
+f_x
+v
+L
+M
+e^{x^2} dx
+R_x I_x m
+(v_1,v_2,v_3)
+y f(x), a x b
+D
+dx du
+y
+f
+N_z x-3 P_y
+y mx
+x
+x
+12 r^2
+x(t)
+dA
+2
+
+u
+t
+r(t) 0,1,-4 t+ 1,2,6
+TNB
+b
+T(r, r , r
+L
+4,0,2
+A_a
+c
+ds dx^2+dy^2 dx dx dx dx )^2+ dy dx )^2 dt 1+ dy dx )^2 dt
+x - t
+x 2u+v,y u-v,z uv
+x
+v 0,1,f_y
+1,3 -2 -1,2 + 4,0 1-2(-1)+4,3-2(2)+0 7,-1
+0 3 e^{2x} dx
+F
+0 -gt+v_{y_0}
+(0,0,0)
+(-1,2)
+t
+n
+d T ds
+N_z -3 P_y
+F f
+T
+x 4-y
+R
+0 y f(x)
+z 9-(x^2+y^2) 9-r^2
+x-c
+a 0 1 A_a C_a F d r N_x-M_y
+c
+u x^2
+xy-3y dz xyz-3yz
+x
+w z )_{x,y}
+v
+B
+F M,N,P
+xy
+f
+2
+D f( x)
+f_{xy} f_{yx}
+a^2
+P
+(0,0,0)
+r(t) t+1,t^2
+-3y+z^2 -3y+B_z(z)
+c y d
+N_z P_y
+f(x,y,z) x^2+y+xz^2
+F
+(v_1,v_2,v_3)
+f(-2,1) -5
+f u
+x^2+z^2
+B
+F
+R^2 dm r^2 dm
+v
+n -f_x,-f_y,1
+C
+u
+F(x,y) M,N
+f (x+2)(y+2)
+x 3 2,z 9 2
+f x^2 2+yz
+R_2
+r(t)
+y a t
+v
+dx
+x c
+M_y 2x N_x
+R v_{x_0} (2v_{y_0} g) 2v_0^2 g (2 g
+c
+y
+(x,y,z)
+
+u u_1,u_2
+ds
+xy
+(x,y,z)
+y(t) - 1 2 gt^2+v_{y_0} t+y_0 - 1 2 gt^2+v_0 t+y_0
+r 2
+t 1 2 (x-1)
+x
+dx -a t
+r
+P f_z
+C_{ij}
+x dm x dm
+
+Q
+r_1(t) 1+t,3t,2
+0 0
+z [3]{x^2+y}
+R
+xy
+s
+r
+(y- 2 2) -1 (x- 2 2)
+a b dy a b f' dx
+f_y(x,y) -2y
+F M,N,P
+B_z(z) z^2
+g( x)
+f r' 0
+- v
+y
+x
+y t^2-t
+r(t)
+r_2(t) -1,-3,1 t+ 0,-1,4 -t,-3t-1,t+4
+2 a^2
+xy
+y
+T
+x
+d B ds
+
+x
+dx du 1 2
+x,y,z
+z 9-x^2-y^2
+w_i c_i C
+dA fdx
+t
+x
+R
+D f( x)
+d y D f( c) d x
+W F r F T s
+F
+n
+c_i
+n x,y | x,y |
+x c
+,ylabel y
+r 2
+d B ds
+x M_{yz} m
+(0,b)
+1,1,3,4,4,4,4
+g(r,s,t) 3r+4s,t^2-r
+(x,y)
+dz L(x,y)-f(a,b)
+r(t(s))
+y
+y r f(
+N
+t 1 2
+f(x)
+t
+x
+dy dx
+f
+a^2
+(x,y) (1,2)
+M_y N_x
+C F d r
+dy f'dx
+T(2,3) 1,-8
+(t)
+r>0
+x
+x^2+y^2
+D r(t)
+D
+dy dx dy dt dx dt
+f_x M
+A R dxdy R_{uv} abdudv ab R_{uv} dudv
+F 0,-200
+y
+f
+y 2u-v 5
+R I m
+x
+v
+d
+|| u|| | u| u_1^2+u_2^2+u_3^2
+
+1-0,0-0
+x u 2
+t
+
+du 2xdx
+u - v
+t
+0 2 1 2 (1- )^2d
+dh
+N_x 1
+AV
+B
+AV
+d x
+f
+dy dx y x
+(u,v) (a,b)
+t 0
+f(x,y,z) 2x,2y,-2z
+dA
+2x- 1 5 (t) 2x- 1 5 1 5 (x-y^2+3z))
+n A,B,C
+y(t)
+F M,N,P
+x_i^2+ y_i^2
+N f_y
+dy a t
+2,- 2
+(a,0,0),(0,b,0),(0,0,c)
+R
+dy u_2
+B
+P
+s
+|h|
+D
+Df
+r_1(t) -1,-3,1 t+ 1,2,3 -t+1,-3t+2,t+3
+3
+f u 6(u-v) + 3(2u+v)+2uv^2
+F 2xy+x,x^2-3z,-3y+z^2
+F
+dm ds
+r_1(t) t, t
+d B ds
+r 1-
+2y^2-9+y^2+y^2 0
+R(0,1,3)
+R
+0 2 Mdy-Ndx 0 2 (3 t)( 3 t)-(3 t) (-3 t)dt 0 2 9dt 9 2
+A
+f
+y f(x)
+N_z P_y
+Pdz yz^2 2
+z f(x,y)
+z f(x,y)
+F
+C
+x,y,
+x x_i
+(-1,2)
+x^2 a^2 + y^2 b^2 1
+a_T
+s
+f(x,y,z)
+f
+x
+F
+dt
+x^2 a^2 + y^2 b^2 1
+f
+W | F| | d|
+dA fds
+x,y,z
+f
+w z )_{y,t}
+f -2x,-2y
+x dm x dm
+a 0 1 A_a C_a F d r
+r(t) t,t^2
+Mdx+Ndy+Pdz
+r^2
+y-f(c)
+P
+x_i, y_j
+t
+f
+M x a t
+T
+t
+C
+z
+3
+0 t 1
+f(r(t)) 9-(t+1)^2-(t^2)^2
+
+dx u_1
+ds dx
+y f(x)
+f(x) x^2
+y dy dt t
+f(b)-f(a)
+c_i
+(1,2)
+v 1,m
+R
+s_{i} s
+x
+C
+Mdx xyz
+c d dx dy )^2+1 dy
+r(t) a+u_1t,b+u_2t, f(a+u_1t,b+u_2t) a+u_1t, b+u_2t,f( q(t))
+z
+u
+(4-y)y 3
+n
+x^2-3z x^2+A_y(y,z)
+4
+A_{ij}
+x, y, z)m x,y,z dm
+(3 2,3 2)
+r f(
+dR_2 .2
+x, y, z)
+C
+u
+w x^2-y^2+z- (t)
+ds
+A_y
+x
+v
+(a,b,f(a,b))
+x+y 4
+(-1,0)
+d r ds - 1 2 s 2 ), 1 2 s 2 ), 1 2
+h
+0 y 3
+F
+r(t_k)
+(u,v) (1,2)
+A(y,z) -3z dy -3yz+B(z)
+F
+y
+ds s
+r
+xy
+-3yz
+c
+f F
+F
+s
+dm m
+r(u,v) x,y,z
+C F d r
+x_i
+
+m (x,y,z) s
+r(t) 3t,-5t+2,8t-7
+t
+x
+r,
+0 y 1, y x 1
+C
+g
+a_N 1
+x
+M_{xy}
+(0,0),(4,0),(0,3)
+t
+(x,y) (u,v) 1 5
+r, , x,y
+x
+t
+v_1,v_2,v_3
+B
+3
+y
+y
+N
+r,
+C
+x(t), y(t)
+L
+(x,y) (u,v)
+(x_0,y_0,z_0)
+x f(t),y g(t)
+y
+d y
+f(a,b) u
+u
+d B ds
+2
+r
+t
+M,N
+y^2x+x-xy 1
+B r(b)
+W 80,-40 + -80,-160 6,-3 80,-40 6,-3 +0 600
+x-y^2+3z 5t
+M_z 0 P_x
+68 - 1 2 g(v_{y_0} g)^2+v_{y_0} v_{y_0} g 1 2 v_{y_0}^2 g
+
+v
+w_{i} s_{i} s
+s_i
+d
+dR_1 -.1
+dt
+R
+a
+uv
+d B dt 1 2 t, t, 0
+t
+y
+f_{xy} f_{yx} , f_{xz} f_{zx}
+F
+x,y,z
+A_a
+r 3
+R
+w x^2-y^2+z- ((x-y^2+3z) 5)
+r
+f
+u u_1,u_2,u_3
+x_i
+a
+C x x)dm 0
+f

@@ -1,7 +1,7 @@
 import numpy as np
 
-TR = '../data/tokenized/train.tr'
-EQ = '../data/tokenized/train.eq'
+TR = '../data/final_data/train.tr'
+EQ = '../data/final_data/train.eq'
 
 def read_file():
     split_lines = []

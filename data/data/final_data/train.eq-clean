@@ -1,0 +1,1566 @@
+\vec T
+\tan ( \pi / 4) = 1
+x,y,z
+dA = \frac { 1 } { 2 } r ^ 2d \theta
+| \langle 1,2,4 \rangle | = \sqrt { 1+4+16 } = \sqrt { 21 }
+m = \int _ C dm
+z
+\vec u
+-3 \leq x \leq 3
+f _ z = P
+A _ a
+dt / ds = 1 / (ds / dt) = 1 / | \vec r'(t)|
+\vec u
+y _ 1 = 1, y _ 2 = 3, y _ 3 = 4
+C _ a
+-1(x-1)+4(y-2)+1(z-6) = 0
+f(x,y,z)
+(1,-2,2)
+df
+\vec v
+0 \leq x \leq 1
+g = 0
+x = \pm 1
+f
+1 \leq t \leq 2
+f _ x = 6x+4y-y \sin (xy)+0
+\vec y = \langle x,y,z \rangle
+\nabla
+\theta
+z = 9-x ^ 2-y ^ 2
+y
+y
+M _ z = P _ x
+V(x,y) = (2x)(2y)(9-x ^ 2-y ^ 2)
+x
+f( \vec r(t))
+a
+f
+\alpha
+\Delta y
+\vec v = \langle 1,0,f _ x \rangle
+\displaystyle \left ( \frac { \partial w } { \partial x } \right ) _ { y,z }
+\vec f( \vec g( \vec x))
+\int _ a ^ b f(x)dx
+\int _ C \vec F \cdot d \vec r = f(0,0)-f(1,0) = - \frac { 1 } { 2 }
+\frac { \langle dy,-dx \rangle } { \sqrt { dy ^ 2+dx ^ 2 } }
+\Delta s
+\vec F
+a _ T
+\displaystyle \left ( \frac { \partial w } { \partial x } \right ) _ { z }
+T
+f _ { xz } = f _ { zx }
+\int _ { -3 } ^ { 3 } \int _ { 0 } ^ { \sqrt { 9-x ^ 2 } } dydx
+B
+\vec F
+\nabla f = \langle f _ x,f _ y,f _ z \rangle
+x = \cos t, y = \sin t
+f
+a _ T = 0
+M _ { x = c } = \int _ C (x-c)dm
+\vec y
+\displaystyle \frac 12 r ^ 2 \theta
+\iint _ R 1 dA
+a _ N
+T(x,y) = x ^ 2-xy-y ^ 2
+v _ { y _ 0 } = v _ 0 \sin \alpha
+\delta (x,y,z)
+x = r \cos \theta , y = r \sin \theta
+f(x,y) = y ^ 2x+x-xy
+f( \vec r(x)) = 1
+\frac { dy } { dx }
+\displaystyle \frac { \theta } { 2 \pi }
+C
+\vec u = \langle u _ 1,u _ 2,u _ 3 \rangle
+x
+\lim _ { a \to 0 } \frac { 1 } { A _ a } \oint _ { C _ a } \vec F \cdot \vec n ds = M _ x+N _ y
+x
+(0,0)
+f _ y = N
+r ^ 2 = \sin 2 \theta
+\lim _ { \vec x \to \vec c } \vec f( \vec x) = \vec f( \vec c)
+y = f(x)
+0 \leq r \leq 3
+(x,y,z)
+m
+\Delta s _ i
+R
+\theta
+\vec F(x,y) = \langle M,N \rangle
+\vec r (u,v) = \langle u,v,9-u ^ 2-v ^ 2 \rangle
+r
+x = \sqrt 2 / 2, y = \sqrt 2 / 2
+\vec r(t) = \langle x(t),y(t),z(t) \rangle
+\theta
+x
+(2,3)
+(x+1) ^ 2+(y-2) ^ 2+z ^ 2 = 5
+a
+0 \leq t \leq 2 \pi
+\vec r(t) = \langle x,y,z \rangle
+\vec v
+x ^ 2+(y-1) ^ 2 = 1
+t _ 2
+x
+u ^ 2+v ^ 2 = 1
+1
+\vec r _ 0
+g = 0
+x
+D
+f(x,y) = \frac { x } { x ^ 2-y }
+\bar x
+x
+R
+x
+\vec r(u,v) = \langle u,v,9+u-v ^ 2 \rangle
+2
+\vec n
+\vec r(t)
+\nabla f(1,1) = \langle -2,-2 \rangle
+2x-y = 0
+\Delta x _ i
+|f _ { xy } |
+y
+0 \leq x \leq 3
+\vec n
+M _ x+N _ y
+N _ z = 1 = P _ y
+r ^ 2 = 2r \sin \theta
+\nabla f = \langle 2xy+x,x ^ 2-3z,-3y+z ^ 2 \rangle
+\displaystyle \left ( \frac { \partial w } { \partial x } \right ) _ { y,z } = 2x-0+0- \cos ((x-y ^ 2+3z) / 5) \cdot \frac { 1 } { 5 }
+\vec F(x,y) = \langle -y,x \rangle
+i
+\vec a
+A = \int _ c ^ d f(x _ i,y)dy
+f(x,y) = 3x ^ 2+4xy+ \cos (xy)+y ^ 3
+f(x,y) = 0
+t
+\vec y
+s = \int _ C ds = \int _ a ^ b \sqrt { 1+ \left ( \frac { dy } { dx } \right ) ^ 2 } dx
+A = \int _ { 0 } ^ { 3 } \int _ { 0 } ^ { x } dy dx
+\vec f( \vec g( \vec x))
+3
+a \leq t \leq b
+\vec r(t)
+x,y
+C
+- \sqrt { 9-y ^ 2 } \leq x \leq \sqrt { 9-x ^ 2 }
+f
+\vec r(x) = \langle x,y(x) \rangle
+R
+R = \sqrt { I / m }
+\displaystyle \frac { \theta } { 2 \pi } \cdot \pi r ^ 2
+TNB
+f
+p
+r
+\vec F = \langle x+y,x+y \rangle
+M _ y = -1
+\left ( \frac { dx } { d \theta } \right ) ^ 2+ \left ( \frac { dy } { d \theta } \right ) ^ 2 = r ^ 2+ \left ( \frac { dr } { d \theta } \right ) ^ 2
+x
+\vec F
+D
+\vec F = \nabla f
+R
+g
+\vec v
+0 \leq y \leq 3
+M _ z = 0 = P _ x
+y-2 = \frac { 1 } { 2 } (x-1)
+(x,y)
+x ^ 2+y ^ 2-2y+1 = 1
+\vec f
+t _ m = v _ { y _ 0 } / g
+\vec u
+\pi / 2< \theta \leq \pi
+R = \sqrt { I / m }
+\cos \theta = \frac { 1 } { 2 }
+\vec T
+x
+\vec B
+\vec T
+R
+\vec r(t) = \int \vec v(t)dt
+\vec F \cdot \vec n
+\vec v = \langle 3,-5,8 \rangle
+\vec v
+\vec u
+y
+g
+x = 2
+z
+Mdx+Ndy
+f = x ^ 2y+x ^ 2 / 2-3yz+B(z)
+r
+x,y
+\vec x
+t
+\vec F = \langle y ^ 2,x \rangle
+\sqrt { x ^ 2+y ^ 2 }
+f(x,y) = \frac { 1 } { 2 } x ^ 2+xy+ \frac 12 y ^ 2
+f _ { yz } = f _ { zy }
+u
+\vec F
+u
+(x,y)
+B
+(2,-8,1)
+[a,b]
+\vec F
+g(x,y,z) = z-f(x,y)
+L(x,y)-f(a,b) = df
+u
+\alpha
+x = 3,1
+dy = f' dx
+y
+f
+\vec F
+y
+x-y ^ 2+3z = 5t
+\Delta x _ i = x _ i-x _ { i-1 }
+M _ y = 0 = N _ x
+M _ z = y = P _ x
+(a,b)
+f = 1
+0, \pi / 2, \pi ,3 \pi / 2
+z = f(x,y)
+f(x,y,z)
+y
+(2,3)
+\pi / 3
+\langle 1,3,-2 \rangle
+\Delta y
+f
+dy / dx = - \cot ( \pi / 4) = -1
+(x-x _ 0) ^ 2+(y-y _ 0) ^ 2+(z-z _ 0) ^ 2 = r ^ 2
+v _ { x _ 0 } = 90g / v _ { y _ 0 } = 90g / \sqrt { 2 \cdot 68 \cdot g }
+f ^ { (n) } (a)
+y ^ 2 = x ^ 2
+d \vec y = D \vec f d \vec x
+x ^ 2+y ^ 2+z ^ 2+2x-4y = 0
+P _ 1 = (1,0,2)
+f(x,y,z) = 4xyz
+y = f(x)
+\vec F
+\delta
+P(a,b,c)
+\int _ a ^ b f(x)dx
+\vec v = \langle v _ 1,v _ 2,v _ 3 \rangle
+|r(t)| ^ 2 = \vec r(t) \cdot \vec r(t) = c ^ 2
+a \leq t \leq b
+y ^ 2 = 9 / 4
+f = x ^ 2+y ^ 2-z ^ 2
+dt
+(2,-8,1)
+W = \vec F \cdot \vec r
+ds
+\int _ C Mdx+Ndy
+v _ 0 = \sqrt { v _ { x _ 0 } ^ 2+ v _ { x _ 0 } ^ 2 }
+1
+f(x,y) = x ^ 2+y ^ 2+1
+\cos \theta
+(1,1)
+t _ m, v _ { x _ 0 } , v _ { y _ 0 }
+\sqrt { x ^ 2+y ^ 2 }
+(x,y,0)
+a _ T
+9 / 2
+\vec f
+a
+1 = \frac { dx } { dx }
+\lim _ { a \to 0 } \frac { 1 } { \pi a ^ 2 } 2 \pi a ^ 2 = 2
+(a,b)
+f(b)-f(a) = \int _ a ^ b f' dx
+\vec v
+dm = \delta ds
+f(x _ i,y _ j)
+(1,0)
+x = -2,y = 1
+\vec N
+w = x ^ 2+(z ^ 3-x ^ 2)+z ^ 2 = z ^ 3-z ^ 2
+(2,3)
+g
+x = y ^ 2
+(x,y)
+r = \cos \theta
+\vec T
+x = g(y), c \leq y \leq d
+\vec F \cdot \vec n = 0
+x = c
+f(x,y)
+\vec a(t) = \langle 0,-g \rangle
+\delta >0
+z = f(x,y)
+(0,0,0)
+x = 4
+r
+f
+f
+f
+t = (x-y ^ 2+3z) / 5
+\vec u = \langle u _ 1,u _ 2 \rangle
+L = f+dz
+(a,b)
+xyz
+L
+t
+\frac { d ^ 2y } { dx ^ 2 }
+0 \leq t \leq 1
+\vec y - \vec f( \vec c) = D \vec f( \vec c) ( \vec x- \vec c)
+\frac { 1 } { R } = \frac { 1 } { R _ 1 } + \frac { 1 } { R _ 2 }
+s
+\displaystyle \frac { \pi } { 2 } r ^ 2
+x
+\Delta s = \sqrt { \Delta x ^ 2+ \Delta y ^ 2 }
+f
+z
+\nabla f
+\vec x = \vec c
+f
+\displaystyle KE = \frac { 1 } { 2 } mv ^ 2
+f(x,y) = 9-x ^ 2-y ^ 2
+r \theta (t)
+\vec r(t)
+\vec F
+\vec u - \vec v
+f _ y = x ^ 2-3z
+(x,y)
+M _ { yz } = \int _ C \bar x dm = \int x dm
+\oint _ C \vec F \cdot d \vec r
+r
+z = f(x,y)
+g = 0
+dz
+a
+2x-6y = 0,-6x+2y = 0
+Df(x,y)
+x = r \cos \theta , y = r \sin \theta , x ^ 2+y ^ 2 = r ^ 2
+C
+y _ i
+0 \leq y \leq \sqrt { 9-x ^ 2 }
+f
+m
+x = f(t),y = g(t)
+x
+y
+\bar x
+\frac 12x ^ 2y
+\vec a(t)
+\vec F(x,y) = \langle -y,x \rangle
+\delta (x,y,z) = x ^ 2+y ^ 2z
+C
+(0,0)
+m
+xy = 3
+| \langle 2,7,4 \rangle | = \sqrt { 4+49+16 } = \sqrt { 69 }
+\langle x,z,y \rangle
+v
+f = 1
+uv
+\Delta x _ i
+\nabla f = \vec F
+0 \leq x \leq 1, 0 \leq y \leq x
+\vec F
+g
+\int _ c ^ d f(x _ i,y)dy
+\langle v _ 1,v _ 2,v _ 3 \rangle
+x = 1,y = 2
+C
+(1,1)
+C
+(a,b,f(a,b))
+x ^ 2+y ^ 2 = 1
+\bar x m = \int x dm = M _ { yz } = M _ { x = 0 }
+(x,y)
+r = 1- \cos \theta
+M _ y = N _ x
+x ^ 2-z ^ 2 = 1
+90 = v _ { x _ 0 } v _ { y _ 0 } / g
+\frac { 1 } { A _ a } \oint _ { C _ a } \vec F \cdot \vec n ds
+P _ x = 0
+f = x ^ 2+yz ^ 3
+\vec u
+t
+M _ y = x+z = N _ x
+D
+\int R ^ 2 dm = \int r ^ 2 dm
+x(t)
+f _ y = 0+4x-x \sin (xy)+3y ^ 2
+t = v _ { y _ 0 } / g = v _ 0 \sin \alpha / g
+\vec c
+2x+3y
+\nabla f
+0
+\lim _ { a \to 0 } \frac { 1 } { \pi a ^ 2 } 2 \pi a ^ 2 = 2
+Dw(x,y,z)
+0 \leq y \leq x
+x
+\vec v _ 2
+A
+\vec v
+\vec F \cdot \vec T ds
+(x,y) = (0,0)
+\int x ^ 2 / 2+xz-3z dy = \frac 12x ^ 2y+xyz-3yz
+\vec u
+a \leq t \leq b
+(-1,2,0)
+AV
+\vec F = \langle yz,xz,yz \rangle
+f
+\frac { \partial f } { \partial v }
+N = y = a \sin t
+\vec u
+D ^ n \vec f( \vec a)
+(x,y)
+n
+f = x ^ 2+y ^ 2+z ^ 2
+x,y,z
+f'(x)
+\bar x = ( \int x dm) / m
+l
+g = = 0
+\langle dx,dy \rangle = \vec u ds
+u+2v
+\vec r(t _ m) = \langle 90,68 \rangle = \langle v _ { x _ 0 } t _ m, - \frac { 1 } { 2 } gt _ m ^ 2+v _ { y _ 0 } t \rangle
+C
+f
+\iint _ RfdA
+C _ a
+\vec h
+radius _ i = x _ i
+z
+x = c
+x = a \cos t
+R
+x ^ 2-y ^ 2 = 1
+\vec u
+y
+y
+R
+C
+x = t+1, y = t ^ 2
+\frac { \Delta y _ i } { \Delta x _ i } \Delta x _ i = \frac { dy } { dx } (c _ i) \Delta x _ i
+|E| \leq \frac { 1 } { 2 } M(|dx|+|dy|) ^ 2
+\vec F
+\frac { 1 } { A _ a } \oint _ { C _ a } \vec F \cdot d \vec r
+(x,y,0)
+(x,y)
+\cos \theta = 1
+\vec T(t) = \vec r'(t) / | \vec r'(t)| = \langle - \alpha \sin t, \alpha \cos t \rangle / \alpha = \langle - \sin t, \cos t \rangle
+f
+r
+(x,y)
+y
+(x,y)
+ds = \sqrt { dx ^ 2+dy ^ 2 }
+\langle u _ 1,u _ 2,0 \rangle
+2u-v = 5y
+C
+t
+\vec u
+\vec x
+\vec F = \langle M,N,P \rangle
+\vec v
+x _ { i-1 }
+1
+C
+z
+dz = z-f(a,b), dx = x-a,dy = y-b
+\theta
+\displaystyle \left ( \frac { \partial w } { \partial x } \right ) _ { y,z }
+\vec x = \langle x,y \rangle
+\vec L
+a _ T
+D \vec F
+\iint _ { R _ { uv } } dudv
+(1,-2,2)
+x
+x
+2x+ \frac { 2 } { 3 } (x ^ 2+y) ^ { -1 / 3 } 2x
+b
+y = 0
+dt
+D ^ 2f
+a \leq t \leq b
+\Delta m _ { i } \approx \delta (x _ i,y _ i,z _ i) \Delta s _ { i }
+\vec 2u
+y = 2+ \frac { 1 } { 2 } (t-1)
+x = a \cos t
+yz
+a
+\oint _ C \vec F \cdot \vec n ds = \oint _ C Mdy-Ndx
+0
+\vec u
+2z(2) = 0
+f \Delta s
+Df(x,y)
+m
+x-4y = 8
+dx,ds,dA
+x = c
+z
+z
+C
+u(0) = 0
+\vec r(t)
+(0,1)
+f
+\vec r(t) = \langle \cos (t), \sin (t),t \rangle
+\vec v
+\int _ C \vec F \cdot d \vec r = \int _ 0 ^ \pi \langle \cos t+ \sin t, \cos t+ \sin t \rangle \cdot \langle - \sin t, \cos t \rangle dt + \int _ { -1 } ^ 0 \langle t+0,t+0 \rangle \cdot \langle 1,0 \rangle dt = 0- \frac 12
+f(x,y) = x ^ 2-y
+m
+f'
+x
+W = \langle 0,-200 \rangle \cdot \langle 6,-3 \rangle = 600
+\vec T
+a
+y
+x-c
+\Delta s _ i
+\frac { df } { dt }
+\vec N
+x
+0 \leq t \leq 1
+x = -1,y = 2
+f(b)-f(a)
+(x,y)
+z = f(x,y)
+n
+M _ z = P _ x
+R
+f
+C
+y = f(x)
+\vec F
+C
+\displaystyle \left ( \frac { \partial w } { \partial x } \right ) _ { y,z }
+\delta (x,y) = x ^ 2+y ^ 2+1
+f
+0 \leq t \leq 1
+\vec F = \langle -y,x \rangle
+y(t) = - \frac { 1 } { 2 } gt ^ 2+v _ { y _ 0 } t
+\vec F
+3
+f(r(t)) = f(t+1,t ^ 2) = 9-(t+1) ^ 2-(t ^ 2) ^ 2
+(a,b)
+f = \sqrt { x ^ 2+y ^ 2+z ^ 2 }
+x
+x(u) = u / 2
+\Delta x _ i \to 0
+\vec F
+|-5|
+P _ 2 = (3,1,0)
+R _ 1
+A(h,w) = hw
+z = 0
+0 \leq t \leq \pi
+\int N dy = x ^ 2y+-3yz
+D \vec f( \vec x) \vec h
+\vec F(x,y) = \langle -y,x \rangle
+g(x,y,z) = z-(9-x ^ 2-y ^ 2) = 0
+I = \int r ^ 2 dm
+x = y
+f
+dA
+dV = fdA
+\langle 1,0,f _ x \rangle
+\int Ndy
+\vec r _ v = \langle 0,1,-2v \rangle
+C
+\vec v(t _ m) = \langle v _ { x _ 0 } ,0 \rangle = \langle v _ { x _ 0 } ,-gt _ m+v _ { y _ 0 } \rangle
+x
+(1,2,6)
+y = a \sin t
+\vec d
+4-1 = 3
+\Delta x _ i
+f _ x = M
+\int Mdx = xyz
+ds / dt
+\nabla \cdot \vec F
+r
+z = f(x _ i,y)
+u
+\vec F
+\vec T
+\vec F
+x = 0,y = 0
+x = 2u+v,y = u-v,z = uv
+\vec B
+y = x
+\vec L
+0 \leq t \leq 2 \pi
+\vec u + \vec v
+I = \int r ^ 2 dm
+P(1,0,0)
+\vec c
+dx
+\tau = - \frac { d \vec B } { ds } \cdot \vec N
+y = 2+t
+R ^ 2
+x(t) = v _ { x _ 0 } t
+\theta
+\sqrt { (3) ^ 2+(5) ^ 2+(-2) ^ 2 } = \sqrt { 9+25+4 } = \sqrt { 38 }
+x = y ^ 2
+[0,3]
+xz
+\Delta z = f(x+dx,y+dy)-f(x,y)
+x = -1,y = 2
+\vec F (x,y,z)
+f _ x
+y
+f(x,y,z) = x ^ 2+4xy ^ 2-yz ^ 3
+T(x,y) = \langle u = x+2y, v = 2x-y \rangle
+\nabla f( \vec p)
+r
+y
+(x,y,z)
+R ^ 2 m = I
+P = f _ z = -3y+B _ z(z)
+\vec g( \vec x)
+\vec x = \vec c
+\vec r(u,v) = \langle 2u+v,u-v,uv \rangle
+\vec F(x,y) = \langle -y,x \rangle
+\vec F
+\frac { d \vec B } { ds }
+0 \leq t \leq 1
+\sqrt 5
+P
+\sqrt { y ^ 2+z ^ 2 }
+\int Mdx
+dz = f _ xdx+f _ ydy
+3,5,-2)
+x
+s = \int _ 0 ^ { 2 \pi } \sqrt { 2 } dt = 2 \pi \sqrt 2
+y
+y = f(x)
+\vec x
+\vec v
+y = x ^ 2
+f
+|f _ { xx } |,|f _ { yy } |
+R _ 2
+\vec F
+\vec F = \langle M,N,P \rangle
+\int _ a ^ b \sqrt { \left ( \frac { dx } { dt } \right ) ^ 2+ \left ( \frac { dy } { dt } \right ) ^ 2 } dt
+\Delta s _ { i }
+x = 2
+\vec n
+\vec u
+\int Pdz
+ds
+N = y = a \sin t
+y _ i
+r( \theta ) = f( \theta )
+\vec F
+\vec r
+\vec F = \langle M,N,P \rangle
+D \vec f( \vec x)
+d \vec y
+xy
+\vec v
+dy = \frac { dy } { dx } dx
+f
+\vec u = \langle 1,0 \rangle
+P
+\vec n = \langle -f _ x,-f _ y,1 \rangle
+| \vec r(t)| = c
+(x,y)
+R _ y = \sqrt { I _ y / m }
+\tau
+C
+A
+A = \vec r(a)
+s = \int _ C ds = \int _ C \sqrt { dx ^ 2+dy ^ 2 }
+\vec r(t)
+y
+Df( \vec r(t))
+\Delta y _ i = f(x _ i)-f(x _ { i-1 } )
+\vec F
+\vec F
+\vec u \cdot \vec v = u _ 1v _ 1+u _ 2v _ 2+u _ 3v _ 3
+dm = \delta ds
+y = mx+b
+[a,b]
+C _ a
+\Delta y _ i = \frac { f(x _ i)-f(x _ { i-1 } ) } { \Delta x _ i } \Delta x _ i = \frac { \Delta y _ i } { \Delta x _ i } \Delta x _ i \approx \frac { dy } { dx } \Delta x _ i
+\vec u
+\vec F
+f
+f _ x
+x = au,y = bv
+\vec \tau
+\vec u
+R
+f
+t = 0
+C
+y = x,y = 0,x = 3
+f
+w
+0<|x-c|< \delta
+\vec F = \langle M,N,P \rangle
+d \vec y
+a \leq t \leq b
+f(B)-f(A) = f( \vec r(b))-f( \vec r(a))
+y
+\vec r(t) = \langle 3 \cos t,3 \sin t \rangle
+\vec r(t) = \langle \cos t, \sin t, t \rangle
+a
+z = f(x,y)
+\frac { d \vec B } { ds }
+0 = \int _ C x dm - \bar x \int _ C dm
+t
+c
+uv
+s(t) = \int _ 0 ^ { t } \sqrt { 2 } dt = t \sqrt { 2 }
+M _ z = y
+f
+a
+f
+z = f(x,y) = 9+x-y ^ 2
+2 \cos \theta = 1
+x = c
+ds
+F = \langle M,N,P \rangle
+x
+c = f(x,y)
+N _ x-M _ y
+x(t),y(t), a \leq t \leq b
+f
+d \vec x
+(1, \pi )
+y
+\vec f
+B
+\langle -t, -3t-1,2t+4 \rangle
+Mdx+Ndy+Pdz
+\vec r(t) = \langle 1,0,1 \rangle t+ \langle 1,2,6 \rangle
+C
+p = (a,b)
+xz
+y
+\vec F(x,y) = \langle x,y \rangle
+C
+\vec v
+dA = f(x)dx
+\langle 1,3,-2 \rangle \cdot \langle 4,0,2 \rangle = 1(4)+3(0)-2(2)
+(x,y) = (0,2)
+D
+\nabla L = 0
+\vec u
+\nabla L = \vec 0
+s
+x,y,z,
+\frac { dy } { dx }
+y ^ 2-4y-3 = 0
+x = t
+\vec F = \langle x,y \rangle
+z = f(x,y)
+x-2y+z = 1
+\Delta V _ i \approx \int _ c ^ d f(x _ i,y)dy \Delta x _ i
+x+2y = 1
+\vec q(t) = \langle a+u _ 1t, b+u _ 2t \rangle
+3
+\frac { 1 } { \sqrt { 5 } } \langle 2,1 \rangle
+f
+1
+x = 3
+a _ N
+\langle dy,-dx \rangle
+R
+f
+\frac { d \vec B } { ds } = \frac { d \vec B / dt } { ds / dt }
+P
+y
+M _ { yz } = \int _ C x dm, M _ { xz } = \int _ C y dm
+z = f(x,y)
+\displaystyle \frac xa+ \frac yb+ \frac zc = 1
+\Delta s _ { i }
+ds
+C
+a \leq t \leq b
+\langle \bar x, \bar y, \bar z \rangle m = \int _ C \langle x,y,z \rangle dm
+R ^ 2 m = I
+\vec B = \frac { 1 } { \sqrt { 2 } } \langle \sin t,- \cos t, 1 \rangle
+y
+f(x,y) = \frac { x ^ 2y } { x ^ 2+y ^ 2 }
+\langle 1,-2,3 \rangle
+C _ a
+N _ x-M _ y = 1-(-1) = 2
+d \vec y = D \vec f d \vec x
+\vec f( \vec c)
+f
+dA
+(x,y) = (r \cos \theta ,r \sin \theta ) = (1 / 4, \pm \sqrt 3 / 4)
+y = x ^ 2
+w _ i
+f( \vec r(t))
+r
+f _ { xy } = f _ { yx }
+\vec F = \langle 0,-200 \rangle = \langle 80,-40 \rangle + \left ( \langle 0,-200 \rangle - \langle 80,-40 \rangle \right ) = \langle 80,-40 \rangle + \langle -80,-160 \rangle .
+t(s)
+\vec v
+\frac { \partial (x,y) } { \partial (r, \theta ) } = r
+\vec L
+(x,y)
+f
+dy / dx = \dot y / \dot x = \frac { \cos t } { - \sin t } = - \cot t
+ds
+v = 2x-y
+(2,3)
+(x,y) = (a,b)
+f
+D ^ 2f(a,b)
+\vec F
+\langle dx,dy \rangle = .1 \frac { \langle 3,4 \rangle } { | \langle 3,4 \rangle | } = \frac { .1 } { 5 } \langle 3,4 \rangle = \langle .06,.08 \rangle
+\vec y = \vec f( \vec x)
+y
+\vec F
+\int _ C \vec F \cdot d \vec r = \int _ C -y dx = \iint _ RdA
+C _ u
+R
+A = \iint _ R dA = \int _ { 0 } ^ { 3 } \int _ { 0 } ^ { x } dy dx
+(r, \theta ) = (3, \pi / 4)
+f(x,y) = x ^ 2-6xy+y ^ 2
+I = \int r ^ 2 dm
+z = 2x+3y
+Df
+\vec F(x,y,z) = \langle xy+yz+1,x ^ 2 / 2+xz-3z,xy-3y \rangle
+d \vec y = D \vec f d \vec x
+R
+\vec r(t) = \langle 3 \cos (t),2 \sin (t) \rangle
+24
+C
+[a,b]
+\vec f( \vec x) = \vec y
+\beta
+\theta = \pi / 3
+\vec B
+\vec u
+P
+AV = \frac { 1 } { A } \displaystyle \int _ { 0 } ^ { 3 } \int _ { 0 } ^ { x } x ^ 2+y ^ 2+1 dy dx
+\vec F
+x = a \cos t, y = b \sin t
+9 / 2
+\vec r _ 1(0) = \langle 1,0,2 \rangle
+\vec y = \langle z \rangle
+z
+\vec d
+dx = \frac { 1 } { 2 } du
+\vec u
+R = 20 / 3
+|x-3|
+y = z ^ 3-x ^ 2
+z = f(x,y)
+t _ { k-1 } \leq t \leq t _ { k }
+\int _ a ^ b fdx
+(a,b,f(a,b))
+dy = a \cos t
+z
+(x,y)
+R _ z = \sqrt { I _ z / m }
+-1<t<2
+C
+2(x-1)-4(y+2)-4(z-2) = 0
+9 \pi / 2
+(x,y)
+t
+ds
+\vec F
+\int _ C Mdy-Ndx = \int _ 0 ^ { 2 \pi } (-a \sin t)(a \cos t)-(a \cos t)(-a \sin t)dt = \int _ 0 ^ { 2 \pi } 0 dt = 0
+\Delta s _ i
+\langle -2,-2 \rangle
+\langle dy,-dx \rangle
+\langle -y,x,-yx \rangle
+\int M dx = x ^ 2y+x ^ 2 / 2
+f
+\vec v
+ds = \sqrt { dx ^ 2+dy ^ 2 }
+\vec u
+t
+x = 3
+\displaystyle \left ( \frac { \partial w } { \partial x } \right ) _ { y }
+t = s / \sqrt { 2 }
+(x,y)
+x
+f
+M _ z = P _ x
+x = 1
+dx = -a \sin t
+\left | \frac { d \vec r } { ds } \right | = 1
+i
+\vec v
+r(t) = \langle x(t),y(t) \rangle
+f _ x(x,y) = 1
+\vec T
+\frac { d \vec B } { ds }
+w
+\vec B
+\frac { 1 } { R } = \frac { 3 } { 20 } ,
+\nabla g = \langle -f _ x,-f _ y,1 \rangle
+Q(x,y,z)
+W = \vec F \cdot \vec d
+P _ 2
+g
+C _ a
+Df \cdot D \vec r
+R
+C
+f
+\theta
+\vec T
+x = a
+f(x,y,z)
+R
+f
+\Delta V _ { ij } \approx f(x _ i,y _ j) \Delta A _ { ij } = f(x _ i,y _ j) \Delta x _ i \Delta y _ j
+C
+(0,0), (1,0), (0,1)
+R
+\int xy+yz+1 dx = \frac 12x ^ 2y+xyz+x
+x ^ 2+2x+1+y ^ 2-4y+4+z ^ 2 = 1+4
+dA = fdx,fds, dxdy, rdrd \theta , \frac { \partial (x,y) } { \partial (u,v) } dudv
+\omega (t)
+\theta
+\nabla f = \langle x,z,y \rangle = \vec F
+\vec N
+t,x,y
+f
+n
+\int _ { C _ x } f(x)dx = \int _ { C _ u } f(x(u)) \frac { dx } { du } du
+a
+[0,6]
+Ax+By+Cz = D
+x,y,z
+0 \leq \theta < \pi / 2
+\nabla f
+P(1,2,3)
+f(x,y)
+f(x,y) = 9+x-y ^ 2
+2x-y = 8
+y
+x+2y = 4
+\nabla T = \langle 2x-y,-x-2y \rangle
+t
+\vec g
+\Delta \theta
+C
+\frac { dy } { dy }
+0<| \vec x- \vec c|< \delta
+\left <-2,3 \right >
+\vec n
+f
+\vec F(r, \theta ,z) = \langle r \cos \theta ,r \sin \theta ,z \rangle
+-1 \leq t \leq 0
+D ^ 2f
+\frac { \partial f } { \partial v } = 3(u-v) -3(2u+v) + 2u ^ 2v
+x
+(x,y)
+f(x,y)
+v
+\vec d
+\frac { dy } { dx }
+0 \leq r \leq a
+t
+g = 0
+y(t) = y _ 0
+x = 3 / 2,y = 3 / 2
+P
+x,y,
+y _ i
+x
+y-2 = t
+C
+x ^ 2+y ^ 2 = 2y
+\vec F(x,y) = \langle xy,x+y \rangle
+m
+g = 0
+C _ { ij }
+y = x
+\vec u
+(6,0)
+r
+C
+\vec F = \langle x,y \rangle
+x ^ 2y
+TNB
+t = 0
+x _ i
+I = \int r ^ 2 dm
+\vec d
+x = 3t
+f _ y
+f
+\int R ^ 2 dm = \int r ^ 2 dm
+5x
+y
+z
+\vec c
+\frac { dt } { dt }
+D \vec f
+C _ x
+\vec T
+Mdx+Ndy+Pdz
+\Delta x _ i \to 0
+g = x ^ 2-z ^ 2-1 = 0
+f(x,y) = \frac { x ^ 2-y ^ 2 } { x ^ 2+y ^ 2 }
+x = c
+\vec n = \langle A,B,C \rangle
+P
+f _ z = P
+D \vec f( \vec x)
+\vec u - \vec v
+z = f(x,y)
+\vec T
+dt
+A = B
+x
+\vec T
+x
+x = \frac { u+2v } { 5 }
+y
+ds
+\langle 2,0,-1 \rangle
+x = 5t-3z+y ^ 2
+f
+x = t+1, y = t ^ 2
+m = \iint _ R dm = \int _ { 0 } ^ { 3 } \int _ { 0 } ^ { x } (x ^ 2+y ^ 2+1)dy dx
+C
+\tau = - \frac { 1 } { 2 } \langle \cos t, \sin t, 0 \rangle \cdot \langle - \cos t, - \sin t, 0 \rangle = \frac { 1 } { 2 }
+(-1,0)
+\delta (x,y,z)
+\vec r _ 2(t) = \langle 2+2t,3,2-t \rangle
+f _ x = 2x+4y ^ 2, f _ y = 8xy-z ^ 3, f _ z = -3yz ^ 2
+\vec h
+c _ i
+(x,y,z)
+v _ { y _ 0 } = \sqrt { 2 \cdot 68 \cdot g }
+\vec v _ 0
+f
+y
+f = 3x+y
+AV (b-a) = \int _ a ^ b f(x)dx
+b
+a \leq x \leq b
+f
+x
+2 \pi a ^ 2
+z = 2y ^ 2
+\int _ 0 ^ 3 e ^ { 2x } dx = \int _ 0 ^ 6 e ^ u \frac { 1 } { 2 } du
+r, \theta
+f(x,y,z)
+f
+d(dy / dx) / dt
+\vec u
+\vec F = \langle M,N,P \rangle
+C _ a
+\vec v
+R
+f
+C
+\int _ C Mdy-Ndx = \int _ C \vec F \cdot \vec n ds = \iint _ R 2 dA = 2A = 2 \frac { 9 \pi } { 4 } = \frac { 9 \pi } { 2 }
+\vec r(0) = \vec r _ 0 = \langle x _ 0,y _ 0 \rangle
+x
+xyz
+AV
+radius _ i
+f = \sin x \cos y
+r \cos \theta = 4
+\vec N
+3
+R _ 1
+\langle 1,-2,3 \rangle
+f
+M = x = a \cos t
+x
+g
+A = \vec r(a)
+C
+(a,b)
+0 \leq t \leq 2 \pi
+dy / dx
+f
+\nabla f
+t
+\vec v(t) = \vec a t+ \vec v _ 0
+dy
+f _ { i } = f( \vec r(t _ i))
+\vec v
+y = 3 / 2
+R ^ 2 m = I
+\vec n
+\Delta A _ i
+v = \frac { d } { dt } (r \theta ) = r \frac { d \theta } { dt } = r \omega (t)
+t = c
+\delta (x,y) = xy
+x = 1+2t
+m
+dx = -a \sin t
+f(x)
+\vec N
+\vec F = \langle x,z,y \rangle
+f _ x+f _ y \frac { dy } { dx } = 0
+\displaystyle \left ( \frac { \partial w } { \partial z } \right ) _ { y,t } = 2(x)(-3)+(1)(1) = -6(5t-3z+y ^ 2)+1
+a
+y \leq x \leq 3
+x
+x = 1
+y
+Df D \vec r = 0
+g
+x,y,z
+\vec p = (a,b)
+R
+(a,b)
+f
+P
+ds
+dx / dt
+L
+\vec F
+\int Ndy = xyz
+dz
+\lim _ { a \to 0 } \frac { 1 } { A _ a } \oint _ { C _ a } \vec F \cdot \vec n ds
+\frac { df } { dt }
+y
+x = \cos t, y = \sin t
+\vec N
+f _ x
+\vec v
+L
+M
+\int e ^ { x ^ 2 } dx
+R _ x = \sqrt { I _ x / m }
+(v _ 1,v _ 2,v _ 3)
+y = f(x), a \leq x \leq b
+D
+\frac { dx } { du }
+y
+f
+N _ z = x-3 = P _ y
+y = mx
+x
+x
+\displaystyle \frac 12 r ^ 2 \theta
+x(t)
+dA
+2
+\theta
+u
+t
+\vec r(t) = \langle 0,1,-4 \rangle t+ \langle 1,2,6 \rangle
+TNB
+b
+T(r, \theta ) = \langle r \cos \theta , r \sin \theta \rangle
+L
+\langle 4,0,2 \rangle
+A _ a
+c
+ds = \sqrt { dx ^ 2+dy ^ 2 } \frac { dx } { dx } = \sqrt { \left ( \frac { dx } { dx } \right ) ^ 2+ \left ( \frac { dy } { dx } \right ) ^ 2 } dt = \sqrt { 1+ \left ( \frac { dy } { dx } \right ) ^ 2 } dt
+\dot x = - \sin t
+x = 2u+v,y = u-v,z = uv
+x
+\vec v = \langle 0,1,f _ y \rangle
+\langle 1,3 \rangle -2 \langle -1,2 \rangle + \langle 4,0 \rangle = \langle 1-2(-1)+4,3-2(2)+0 \rangle = \langle 7,-1 \rangle
+\int _ 0 ^ 3 e ^ { 2x } dx
+\vec F
+0 = -gt+v _ { y _ 0 }
+(0,0,0)
+(-1,2)
+t
+\vec n
+\frac { d \vec T } { ds }
+N _ z = -3 = P _ y
+\vec F = \nabla f
+T
+x = 4-y
+R
+0 \leq y \leq f(x)
+z = 9-(x ^ 2+y ^ 2) = 9-r ^ 2
+x-c
+\lim _ { a \to 0 } \frac { 1 } { A _ a } \oint _ { C _ a } \vec F \cdot d \vec r = N _ x-M _ y
+\vec c
+u = x ^ 2
+\int xy-3y dz = xyz-3yz
+x = \tan \theta
+\displaystyle \left ( \frac { \partial w } { \partial z } \right ) _ { x,y }
+\vec v
+\vec B
+\vec F = \langle M,N,P \rangle
+xy
+f
+\pi / 2
+D \vec f( \vec x)
+f _ { xy } = f _ { yx }
+\pi a ^ 2
+P
+(0,0,0)
+\vec r(t) = \langle t+1,t ^ 2 \rangle
+-3y+z ^ 2 = -3y+B _ z(z)
+c \leq y \leq d
+N _ z = P _ y
+f(x,y,z) = x ^ 2+y+xz ^ 2
+\vec F
+(v _ 1,v _ 2,v _ 3)
+f(-2,1) = -5
+\frac { \partial f } { \partial u }
+\sqrt { x ^ 2+z ^ 2 }
+B
+\vec F
+\int R ^ 2 dm = \int r ^ 2 dm
+\vec v
+\vec n = \langle -f _ x,-f _ y,1 \rangle
+C
+\vec u
+\vec F(x,y) = \langle M,N \rangle
+f = (x+2)(y+2)
+x = 3 / 2,z = 9 / 2
+f = x ^ 2 / 2+yz
+R _ 2
+\vec r(t)
+y = a \sin t
+\vec v
+dx
+x = c
+M _ y = 2x = N _ x
+R = v _ { x _ 0 } (2v _ { y _ 0 } / g) = 2v _ 0 ^ 2 \sin \alpha \cos \alpha / g = \sin (2 \alpha ) / g
+c
+y
+(x,y,z)
+\nabla
+\vec u = \langle u _ 1,u _ 2 \rangle
+ds
+xy
+\delta (x,y,z)
+y(t) = - \frac { 1 } { 2 } gt ^ 2+v _ { y _ 0 } t+y _ 0 = - \frac { 1 } { 2 } gt ^ 2+v _ 0 \sin \alpha t+y _ 0
+r = 2
+t = \frac { 1 } { 2 } (x-1)
+x
+dx = -a \sin t
+r
+P = f _ z
+C _ { ij }
+\int \bar x dm = \int x dm
+\sin \theta
+Q
+\vec r _ 1(t) = \langle 1+t,3t,2 \rangle
+\tan 0 = 0
+z = \sqrt [3] { x ^ 2+y }
+R
+xy
+s
+r
+(y- \sqrt 2 / 2) = -1 (x- \sqrt 2 / 2)
+\int _ a ^ b dy = \int _ a ^ b f' dx
+f _ y(x,y) = -2y
+\vec F = \langle M,N,P \rangle
+B _ z(z) = z ^ 2
+\vec g( \vec x)
+\nabla f \cdot \vec r' = 0
+- \vec v
+y
+x
+y = t ^ 2-t
+\vec r(t)
+\vec r _ 2(t) = \langle -1,-3,1 \rangle t+ \langle 0,-1,4 \rangle = \langle -t,-3t-1,t+4 \rangle
+2 \pi a ^ 2
+xy
+y
+\vec T
+x
+\frac { d \vec B } { ds }
+\alpha
+x
+\frac { dx } { du } = \frac { 1 } { 2 }
+x,y,z
+z = 9-x ^ 2-y ^ 2
+w _ i = \frac { c _ i } { C }
+dA = fdx
+t
+x
+R
+D \vec f( \vec x)
+d \vec y = D \vec f( \vec c) d \vec x
+\Delta W \approx \vec F \cdot \Delta \vec r = \vec F \cdot \vec T \Delta s
+\vec F
+n
+c _ i
+\vec n = \frac { \langle x,y \rangle } { | \langle x,y \rangle | }
+x = c
+,ylabel = y
+r = 2 \sin \theta
+\frac { d \vec B } { ds }
+\bar x = M _ { yz } / m
+(0,b)
+1,1,3,4,4,4,4
+\vec g(r,s,t) = \langle 3r+4s,t ^ 2-r \rangle
+(x,y)
+dz = L(x,y)-f(a,b)
+\vec r(t(s))
+y
+y = r \sin \theta = f( \theta ) \sin \theta
+\vec N
+t = 1 / 2
+f(x)
+t
+x
+\frac { dy } { dx }
+f
+\pi a ^ 2
+(x,y) = (1,2)
+M _ y = N _ x
+\oint _ C \vec F \cdot d \vec r
+dy = f'dx
+\nabla T(2,3) = \langle 1,-8 \rangle
+\theta (t)
+r>0
+\Delta x
+x ^ 2+y ^ 2
+D \vec r(t)
+D
+\frac { dy } { dx } = \frac { dy / dt } { dx / dt }
+f _ x = M
+A = \iint _ R dxdy = \iint _ { R _ { uv } } abdudv = ab \iint _ { R _ { uv } } dudv
+\vec F = \langle 0,-200 \rangle
+y
+f
+y = \frac { 2u-v } { 5 }
+R = \sqrt { I / m }
+x
+v
+\vec d
+|| \vec u|| = | \vec u| = \sqrt { u _ 1 ^ 2+u _ 2 ^ 2+u _ 3 ^ 2 }
+\tau
+\langle 1-0,0-0 \rangle
+x = u / 2
+t
+\alpha
+du = 2xdx
+\vec u - \vec v
+t
+\int _ 0 ^ { 2 \pi } \frac { 1 } { 2 } (1- \cos \theta ) ^ 2d \theta
+dh
+N _ x = 1
+AV
+\vec B
+AV
+d \vec x
+f
+dy / dx = \dot y / \dot x
+(u,v) = (a,b)
+t = 0
+\nabla f(x,y,z) = \langle 2x,2y,-2z \rangle
+dA
+2x- \frac { 1 } { 5 } \cos (t) = 2x- \frac { 1 } { 5 } \cos ( \frac { 1 } { 5 } (x-y ^ 2+3z))
+\vec n = \langle A,B,C \rangle
+y(t)
+\vec F = \langle M,N,P \rangle
+\sqrt { \Delta x _ i ^ 2+ \Delta y _ i ^ 2 }
+N = f _ y
+dy = a \cos t
+\theta = \pi / 2,- \pi / 2
+(a,0,0),(0,b,0),(0,0,c)
+R
+dy = u _ 2
+B
+P
+\Delta s
+|h|
+D
+Df
+\vec r _ 1(t) = \langle -1,-3,1 \rangle t+ \langle 1,2,3 \rangle = \langle -t+1,-3t+2,t+3 \rangle
+3
+\frac { \partial f } { \partial u } = 6(u-v) + 3(2u+v)+2uv ^ 2
+\vec F = \langle 2xy+x,x ^ 2-3z,-3y+z ^ 2 \rangle
+\vec F
+dm = \delta ds
+r _ 1(t) = \langle \cos t, \sin t \rangle
+\frac { d \vec B } { ds }
+r = 1- \cos \theta
+2y ^ 2-9+y ^ 2+y ^ 2 = 0
+R(0,1,3)
+R
+\int _ 0 ^ { \pi / 2 } Mdy-Ndx = \int _ 0 ^ { \pi / 2 } (3 \cos t)( 3 \cos t)-(3 \sin t) (-3 \sin t)dt = \int _ 0 ^ { \pi / 2 } 9dt = \frac { 9 \pi } { 2 }
+A
+\vec f
+y = f(x)
+N _ z = P _ y
+\int Pdz = yz ^ 2 / 2
+z = f(x,y)
+z = f(x,y)
+\vec F
+C
+x,y,
+x = x _ i
+(-1,2)
+\frac { x ^ 2 } { a ^ 2 } + \frac { y ^ 2 } { b ^ 2 } = 1
+a _ T
+s
+\nabla f(x,y,z)
+f
+x
+\vec F
+dt
+\frac { x ^ 2 } { a ^ 2 } + \frac { y ^ 2 } { b ^ 2 } = 1
+f
+W = | \vec F| \cos \theta | \vec d|
+dA = fds
+x,y,z
+f
+\displaystyle \left ( \frac { \partial w } { \partial z } \right ) _ { y,t }
+\nabla f = \langle -2x,-2y \rangle
+\int \bar x dm = \int x dm
+\lim _ { a \to 0 } \frac { 1 } { A _ a } \oint _ { C _ a } \vec F \cdot d \vec r
+\vec r(t) = \langle t,t ^ 2 \rangle
+Mdx+Ndy+Pdz
+r ^ 2
+y-f(c)
+P
+\Delta x _ i, \Delta y _ j
+t
+f
+M = x = a \cos t
+\vec T
+t
+C
+z
+3
+0 \leq t \leq 1
+f(r(t)) = 9-(t+1) ^ 2-(t ^ 2) ^ 2
+\Delta \theta
+dx = u _ 1
+ds = dx
+y = f(x)
+f(x) = x ^ 2
+\dot y = dy / dt = \cos t
+f(b)-f(a)
+c _ i
+(1,2)
+\vec v = \langle 1,m \rangle
+R
+\frac { \Delta s _ { i } } { s }
+x
+C
+\int Mdx = xyz
+\int _ c ^ d \sqrt { \left ( \frac { dx } { dy } \right ) ^ 2+1 } dy
+\vec r(t) = \langle a+u _ 1t,b+u _ 2t, f(a+u _ 1t,b+u _ 2t) \rangle = \langle a+u _ 1t, b+u _ 2t,f( \vec q(t)) \rangle
+z
+\vec u
+(4-y)y = 3
+\vec n
+x ^ 2-3z = x ^ 2+A _ y(y,z)
+4
+\Delta A _ { ij }
+( \bar x, \bar y, \bar z)m = \int \langle x,y,z \rangle dm
+(3 / 2,3 / 2)
+r = f( \theta )
+dR _ 2 = .2
+( \bar x, \bar y, \bar z)
+C
+\vec u
+w = x ^ 2-y ^ 2+z- \sin (t)
+ds
+A _ y
+x
+v
+(a,b,f(a,b))
+x+y = 4
+(-1,0)
+\frac { d \vec r } { ds } = \langle - \frac { 1 } { \sqrt { 2 } } \sin ( \frac { s } { \sqrt 2 } ), \frac { 1 } { \sqrt { 2 } } \cos ( \frac { s } { \sqrt 2 } ), \frac { 1 } { \sqrt 2 } \rangle
+\vec h
+0 \leq y \leq 3
+\vec F
+\vec r(t _ k)
+(u,v) = (1,2)
+A(y,z) = \int -3z dy = -3yz+B(z)
+\vec F
+y
+\frac { ds } { s }
+r
+xy
+-3yz
+c
+\nabla f = \vec F
+\vec F
+s
+\frac { dm } { m }
+\vec r(u,v) = \langle x,y,z \rangle
+\displaystyle \int _ C \vec F \cdot d \vec r
+x _ i
+\delta
+\Delta m = \delta (x,y,z) \Delta s
+\vec r(t) = \langle 3t,-5t+2,8t-7 \rangle
+t
+x
+r, \theta
+0 \leq y \leq 1, y \leq x \leq 1
+C
+g
+a _ N = 1
+x
+M _ { xy }
+(0,0),(4,0),(0,3)
+t = \pi
+\frac { \partial (x,y) } { \partial (u,v) } = \frac { 1 } { 5 }
+r, \theta , x,y
+x
+\cos t
+\langle v _ 1,v _ 2,v _ 3 \rangle
+\vec B
+\theta = \pm \frac { \pi } { 3 }
+y
+\vec y
+\vec N
+r, \theta
+C
+x(t), y(t)
+L
+\frac { \partial (x,y) } { \partial (u,v) }
+(x _ 0,y _ 0,z _ 0)
+x = f(t),y = g(t)
+y
+d \vec y
+\nabla f(a,b) \cdot \vec u
+u
+\frac { d \vec B } { ds }
+\pi / 2
+\vec r
+t
+M,N
+y ^ 2x+x-xy = 1
+B = \vec r(b)
+W = \left ( \langle 80,-40 \rangle + \langle -80,-160 \rangle \right ) \cdot \langle 6,-3 \rangle = \langle 80,-40 \rangle \cdot \langle 6,-3 \rangle +0 = 600
+x-y ^ 2+3z = 5t
+M _ z = 0 = P _ x
+68 = - \frac { 1 } { 2 } g(v _ { y _ 0 } / g) ^ 2+v _ { y _ 0 } v _ { y _ 0 } / g = \frac { 1 } { 2 } v _ { y _ 0 } ^ 2 / g
+\tau
+\vec v
+w _ { i } = \frac { \Delta s _ { i } } { s }
+\Delta s _ i
+\vec d
+dR _ 1 = -.1
+dt
+R
+a
+uv
+d \vec B / dt = \frac { 1 } { \sqrt { 2 } } \langle \cos t, \sin t, 0 \rangle
+t
+y
+f _ { xy } = f _ { yx } , f _ { xz } = f _ { zx }
+\vec F
+x,y,z
+A _ a
+r = \cos 3 \theta
+R
+w = x ^ 2-y ^ 2+z- \sin ((x-y ^ 2+3z) / 5)
+r
+f
+\vec u = \langle u _ 1,u _ 2,u _ 3 \rangle
+\Delta x _ i
+a
+\int _ C(x- \bar x)dm = 0
+f
